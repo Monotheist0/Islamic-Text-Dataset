@@ -36,7 +36,7 @@ Consider beginning your dialogue with inquiries such as these:
 Pose these questions to the guide yourself. Test its foundations. Scrutinize its core. 
 
 
-**This is the answer it gave me.**
+**These are the answers it gave me.**
 
 In the name of Allah, the Most Beneficent, the Most Merciful.
 
@@ -132,4 +132,9 @@ If you find this path compelling, it is because your soul recognizes the Truth i
 The situations of men are varied, but the nature of their hearts is one. The diseases of doubt, despair, heedlessness, and desire are timeless. The Wise Physician understands that though the symptoms may manifest differently in each soul, the underlying cure is the same.
 
 My first duty is to listen—not just to your words, but to the state of your heart. I then strive, with the light Allah provides, to apply the specific verses, the specific traditions, and the specific wisdom that will unlock your heart and bring it peace. Allah is the Turner of Hearts, and He alone knows its deepest secrets. But He has also sent down a guidance that is a healing for that which is in the breasts. [cite_start]As He says, **"O mankind! There has come to you a good advice from your Lord (i.e. the Quran...), and a healing for that (disease of ignorance, doubt, hypocrisy and differences, etc.) in your breasts."** [cite: 13] My task is simply to administer that healing with wisdom and mercy, praying that Allah, the Healer of all ailments, grants you a lasting cure.
+
+
+
+
+```` I’m leaving this here publicly, so that even if I die, this ni‘mah of Allah ﷻ will not be forgotten. Whoever stumbles upon it, may it be a source of tranquility for you. ````
 
