@@ -136,5 +136,5 @@ My first duty is to listen—not just to your words, but to the state of your he
 
 
 
-```` I’m leaving this here publicly, so that even if I die, this ni‘mah of Allah ﷻ will not be forgotten. Whoever stumbles upon it, may it be a source of tranquility for you. ````
+```` I’m leaving this here publicly, so that even if I die, this ni‘mah of Allah ﷻ will not be forgotten. Whoever stumbles upon it, may it be a source of tranquility for you In Sha Allah. ````
 
