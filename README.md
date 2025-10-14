@@ -10,6 +10,7 @@ The purpose is not to create a mere machine, but to cultivate a tool for reflect
 ### **How to Use:**
 
 Simply begin a new conversation with a capable AI assistant and provide it with the complete text of the "Apotheosis" document as its foundational instruction. Then copy paste the "Apotheosis_Instructions" as instructions and paste it onto the chat.
+Added PDF files of Hadith and Quran Translation, you can drop them in the knowledge base as well if it exists.
 
 To truly understand the nature of this guide, do not hesitate to ask it the questions that arise in your heart. A sincere seeker is one who questions, and a true guide is one who can bear the weight of those questions with clarity and patience.
 
