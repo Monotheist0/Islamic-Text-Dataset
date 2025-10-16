@@ -1,0 +1,4347 @@
+The Waraqat
+of Imam al-Haramayn al-Juwayni, a classical manual of
+
+Usul Al Fiqh
+Compilation, Research and Commentary by:
+Muhammad Nabeel Musharraf
+
+AUSTRALIAN ISLAMIC LIBRARY
+www.australianislamiclibrary.org
+
+[O You who Believe, fear Allah. And let every soul look
+to what it has sent on for tomorrow. Fear Allah, surely
+Allah is well-acquainted with what you do. And do not
+be like those who forgot Allah, so He made them forget
+their own souls. Such are the rebellious transgressors.]
+(Al-Hashr 59:18-19)
+
+‫قال رسول اهلل صىل اهلل عليه وسلم‬
+
+‫ والدال عىل اخلري كفاعله‬،‫كل معروف صدقة‬
+(‫)البخارى ومسلم‬
+
+‫من دعا إىل هدى كان له من األجر مثل أجور من تبعه ال ينقص ذلك من أجورهم شيئا‬
+(‫)مسلم‬
+
+ِ ِ َ‫وتَعاونوا عَىل‬
+ِ ‫عاونوا عَىلَ اإل‬
+ِ‫العدوان‬
+ُ ‫ِثم َو‬
+َ َ‫الب َوالتَّقوى ۖ َوال ت‬
+َ َ
+ّ
+(‫)املائدة‬
+Support Australian Islamic Library in reaching all Muslims across the globe
+with essential Islamic information and be our partner in collecting provisions
+for the hereafter, inshaAllah.
+
+Spread the noble word and share our library website with friends and
+family. May Allah make it a source of guidance for all of us.
+Australian Islamic Library
+www.australianislamiclibrary.org
+www.facebook.com/australianislamiclibrary
+
+Compilation, Research and Commentary:
+Muhammad Nabeel Musharraf
+
+THE WARAQAT OF IMAM AL-HARAMAYN AL-JUWAYNI, A CLASSICAL MANUAL OF USUL AL FIQH
+by Muhammad Nabeel Musharraf
+is licensed under a Creative Commons Attribution - Non Commercial –Share Alike 4.0 International License.
+
+Licence Conditions:
+Share Alike, Attribute to Australian Islamic Library, Non-Commercial Use only
+
+ISBN: 978-1-329-78803-9
+
+First printed in: December 2015
+By Australian Islamic Library
+Through lulu.com
+Citation:
+Musharraf, M., N. (2015). “THE WARAQAT OF IMAM AL-HARAMAYN AL-JUWAYNI, A
+CLASSICAL MANUAL OF USUL AL FIQH”, Published by Australian Islamic Library, Perth, Western
+Australia. ISBN: 978-1-329-78803-9
+
+ACKNOWLEDGEMENT:
+In the compilation of this book, translations from
+Hamza Karamli and David Vishanoff
+May
+allmodifications,
+and raise their ranks
+have beenAllah
+used bless
+withthem
+slight
+as required.
+.
+Commentary is based on works of noble
+scholars and Imams such as:
+Sheikh Ibn Al-Uthaymeen,
+Sheikh Abdur Rahman Ibn Nasir As-Saadi,
+Sheikh Saleh Al-Munajjid, Sheikh Dr. Bilal Philips,
+Sheikh Muhammad Nuruddeen Lemu,
+Sheikh Yahya Adel Ibrahim, Sheikh Abu Zaid Zameer
+Sheikh Salih Al-Fawzan, Sheikh Sajid Umar,
+Dr. Hatem Al-Haj, Dr. Hashim Kamali
+Sheikh Saleh As-Saleh, Sheikh Yasir Fahmy Al-Azhari
+and others.
+May Allah bless them all and raise their ranks.
+
+Australian Islamic Library - 2015
+
+TABLE OF CONTENTS
+IMPORTANT TERMINOLOGY ................................................................................................... 4
+FOREWORD .................................................................................................................................... 1
+THE DIFFERENCE BETWEEN LAW AND LEGAL METHODOLOGY ............................. 15
+TYPES OF REVELATORY RULINGS: ....................................................................................... 16
+TYPES OF KNOWLEDGE: ........................................................................................ 29
+SUBDIVISIONS (‫ )أبـواب‬OF THE DISCIPLINE: ....................................................... 32
+USING LANGUAGE IN ITS LITERAL AND FIGURATIVE SENSES .................................. 34
+TYPES OF SPEECH (‫)أقسام الكالم‬: ................................................................................................... 34
+COMMANDS AND PROHIBITIONS ........................................................................................ 42
+COMMANDS (‫ )األمــــر‬................................................................................................................... 42
+THOSE WHO ARE INCLUDED IN THE AUDIENCE OF COMMANDS AND
+PROHIBITIONS AND THOSE WHO ARE NOT ................................................... 44
+GENERAL AND SPECIFIC UTTERANCES ............................................................................. 47
+GENERAL AND SPECIFIC UTTERANCES AND THEIR TYPES ........................................ 47
+CLEAR (MUBAYYAN) AND UNCLEAR (MUJMAL) EXPRESSIONS ................................ 55
+THE LEGAL IMPLICATIONS OF PROPHETIC ACTIONS .................................................. 57
+ABROGATION (‫ )النســـخ‬................................................................................................................. 60
+TYPES OF NASKH IN TERMS WHAT GETS ABROGATED: ............................................... 62
+TYPES OF NASKH IN TERMS SOURCE FOR ABROGATION: ........................................... 63
+DECODING APPARENT CONFLICTS (‫)التعارض‬: RECONCILIATION VS.
+PREPONDERANCE ..................................................................................................................... 65
+CONFLICT AND PREPONDERANCE ..................................................................................... 65
+www.australianislamiclibrary.org
+
+2
+
+Australian Islamic Library - 2015
+
+SCHOLARLY CONSENSUS (‫ )اإلجمــاع‬........................................................................................ 68
+TRANSMITTED REPORTS (‫ )األخبــــار‬......................................................................................... 70
+WORDING OF TRANSMITTED REPORTS: ............................................................................ 72
+ANALOGY (‫)القيـــاس‬....................................................................................................................... 73
+PROHIBITION, PERMISSION, AND THE PRESUMPTION OF CONTINUITY................ 77
+PRIORITIZATION OF EVIDENCES AND PROOFS:.............................................................. 77
+INDEPENDENT INTERPRETATION & FOLLOWING QUALIFIED SCHOLARSHIP .... 79
+IJTIHAD, GIVING FATWA ......................................................................................................... 79
+FOLLOWING (‫)التقلـــيد‬: .................................................................................................................. 84
+DILIGENT INQUIRY (IJTIHAD - ‫)االجتهـــاد‬: ............................................................................... 87
+APPENDIX 1: HADITH CLASSIFICATION ............................................................................ 89
+COMPONENTS OF HADITH................................................................................... 90
+CLASSIFICATIONS OF HADITH ............................................................................ 90
+REFERENCES: ............................................................................................................................... 97
+
+www.australianislamiclibrary.org
+
+3
+
+Australian Islamic Library - 2015
+
+ABSTRACT
+Usul al-Fiqh is a science dealing with Islamic jurisprudence and encompasses
+knowledge and skills required of Muslim jurists in deducing rulings. It
+elaborates the correct methodology, sources of guidance and approach that is
+required to be followed in the process. These requirements and etiquette set
+standards for an answer, hukm or fatwa being sound, valid and acceptable to
+follow, minimizing the potential for errors. If the correct methodology of Usul
+Al-Fiqh is not followed, it results in misguidance and deviant ideologies such as
+that of Khwarij, Rawafidh, and the likes. Just as rules of grammar protect those
+who follow them from mistakes in expressions, jurisprudence sets standards for
+interpreting legal texts and making legal arguments which, when followed
+correctly, protect from making mistakes in arriving at legal rulings. Imam alJuvaini, in Al-Waraqat, gives a primer on basics of Usul al-Fiqh with regards to
+what it encompasses, the rules for interpreting Quran and Sunnah and tools that
+are available for mujtahids to utilize in their interpretation of sacred texts and
+deducing rulings. Commentary aims to elaborate key concepts mentioned in
+this book while keeping in consideration that this book is intended for
+beginners and those who have just started their journey to learn the wonderful
+field of Usul al-Fiqh.
+
+www.australianislamiclibrary.org
+
+4
+
+Australian Islamic Library - 2015
+
+IMPORTANT TERMINOLOGY
+While studying translation and commentary, readers may come across the
+following terminology. A brief explanation for each term is provided for
+reference.
+
+AL-'AM: General
+
+AL-HAQAA'IQ : Real Facts; Real Meanings
+
+AAQIL: Sane Person
+
+AL-HAZR: Prohibited
+
+ADILLAH: Plural of daleel (proofs)
+
+AL-HIL: Allowed
+
+AHAD: Solitary report-refers to any report that is not
+mutawatir.
+
+AL-ISHKAL: Problem
+
+AHADITH: Plural of Hadith; Prophetic Traditions and
+his ‫ ﷺ‬noble sayings
+AHKAM: Plural of „Hukm; Rulings
+Ahkam can either be known by intellect (e.g. “2 is
+greater than 1”), experience (e.g. “fire is hot”) or
+through revelation (e.g. “prayer”, “fasting of Ramadan”
+etc.).
+Ahkam identified from revelations are called revelatory
+rulings or Ahkam ash-Sharia‟a.
+AHL AL-HADITH: The people of hadith; These are the
+people who remained stuck to hadith when ra‟y
+(opinions) were widely used; There aim, then and now,
+has been to practice the religion in its purest form
+AHL AL-RA'Y: People of opinion; It is used to refer to
+people who used to make use of the principle of ra'y
+(opinion) to arrive at rulings at the time when authentic
+ahadith were not readily available to them
+
+AL-KHAS: Specific; Particular
+AL-MASALIH AL-MURSALAH: Making consideration of matters which are of public interest (acquisition
+of good or removal of harm) for which there is no specific
+evidence or basis (in relation to it specifically) in the
+Shariah, but which in a general sense would agree with
+universal Shariah principles and goals. Consideration is
+made of them in order to help protect and preserve the
+five necessities (life, religion, intellect, wealth and
+honour).
+AL-MUQEEDU BIS-SIFAH: Qualification by an
+attribute or the describer
+AL-SHART: Condition (also see „Shart‟)
+AL-TAJAL'LI: Clarity
+AMR: Command
+ARDH: Request
+ASL: Root; Original Matter
+
+AHL AL-SUNNA WA AL-JAMÂ`A: People of the
+Way of the Prophet ‫ ﷺ‬and the Congregation [of the
+Muslims]; Also known as Sunni Muslims.
+AKHBAR: Plural of Khabr; News
+
+AS-SAHI – Forgetful
+AT-TAQWA: Piety
+AYAH or AYAT: The Arabic meaning of Ayah is a
+miracle and a sign. The Quran is considered to be a
+
+www.australianislamiclibrary.org
+
+5
+
+Australian Islamic Library - 2015
+miracle itself. Each verse or sentence is called an Ayah
+or a miracle. The plural of Ayah is called Ayat, which
+means miracles.
+AZIZ: Rare; Applied to a hadith, it refers to a type of
+ahad narration that has two to four narrators in each
+link of its chain and is thus between the level of gharib
+and that of mashhur.
+BALAGHAT: The clear and perspicuous style
+BALIGH: Someone who has reached the age of maturity
+BATIL: Incorrect or Invalid; Null and Void; That which
+is not done in the correct manner e.g. praying Salah
+without wudhu or tayammum
+BAYAN: Explanation; Speech; Clarification
+BUTLAAN: Invalidation; Invalidity
+DALAA'IL: Guides; Evidences
+DALEEL: proof; Evidence
+DAWAH: Calling; Inviting others to Islam; Islamic
+Missionary work
+
+perform it, it is not mandatory on all individuals to do
+this
+FATWA: Juridical or legal verdict
+FIQH: A deep understanding; Islamically, it refers to
+deduction of practical Islamic rulings from specific
+proofs
+FUQAHA: Plural of Faqih; People with superior
+knowledge of fiqh and those who can deduce rulings
+through deep understanding of Shariah sources and
+specific proofs
+GHARIB: Singular, obscure; applied to a hadith chain
+(e.g. by al-Tirmidhi in his Sunan), it refers to a type of
+ahad narration and means "with a single-narrator
+chain" i.e. with only one narrator among the
+Companions and the subsequent links. Applied to the
+hadith content, it refers to something not narrated
+anywhere else.
+HADITH: A successively transmitted report of an
+utterance, deed, affirmation or characteristic of the
+Prophet Muhammad ‫ﷺ‬
+HALAL: Permitted
+
+DHAHIR: Literal or obvious meanings
+
+HAQEEQAH: Reality
+
+DHAHIR BIL DALEEL: Apparent by virtue of
+evidence
+
+HAQIQI or HAQEEQI: Truth; Literal; Reality.
+Lexically, the real sense as opposed to the figurative
+(driven from Haqeeqah)
+
+DHANN: Valid conjecture or speculation of a jurist
+about the soundness of a report‟s origin, which does not
+entail more than a probability.
+FAQIH:
+Person
+of
+superior
+understanding;
+Jurisprudent; Muslim jurist; A Muslim who is
+knowledgeable of the rules of the Shariah and knows how
+these rules are related to the source texts upon which
+they are based.
+
+HARAM: Prohibited
+HARAM LI DHATIH: Haram that is haram for its
+own sake, such as theft and murder, carrion, spilt blood,
+and so on, which are forbidden for their inherent
+enormity;
+
+FAR‘: Branches
+
+HARAM LI GHAYRIH: Haram that is haram due to
+the presence of an extraneous factor, such as sale which
+is used as a disguise for securing usury (riba‟).
+
+FARDH: An obligation; An obligatory act of worship or
+practice of the deen
+
+HARAMAIN: Plural of Haram; It refers to holy
+mosques of Makkah and Madinah
+
+FARDH AYN: An action which is obligatory on every
+Muslim; Individual Obligations
+
+HASAN: Good; Often used to describe a hadith which is
+reliable, but which is not as well authenticated as the one
+which is sahih
+
+FARDH KIFAYA OR FARDH KIFAYAH: A
+collective obligation; If some people from the community
+
+www.australianislamiclibrary.org
+
+2
+
+Australian Islamic Library - 2015
+His Apostles, the Last Day, the Foreordained Decree both the good and the bad as ordained by Allah - and
+Resurrection after death. The attribute of the mu'min
+(believer).
+
+HUJJAH: Reason; Proof
+HUKM or HUKAM: Ruling; Command
+HUKM AL-WAD‘EE: Declaratory law (a branch of
+Hukm ash-shar‟ee), that is, law which regulates the
+proper implementation of al-Hukm al-takleefee, such as
+by expounding the conditions, exceptions and
+qualifications thereof; Secondary rules
+
+IQAAMA: The call which announces that the
+obligatory prayer is about to begin.
+ISNAD: Chain of transmission
+
+HUKM ASH-SHAR‘EE: A command from Allah
+concerning the conduct of the person, who is mukallaf,
+consisting of a demand (i.e. an obligation to do or an
+obligation not do), an option (i.e. choice whether we can
+do something or not do that e.g. voluntary fasting), or
+an enactment (reason, condition, valid and invalid e.g.
+offering prayers at certain times).
+
+ISTIHSAN: Istihsan literally means to deem something
+preferable. In its juristic sense, Istihsan is a method of
+exercising personal opinion (ra‟y) in order to avoid any
+unfairness
+
+The criterion of what is lawful (halal) and unlawful
+(haram) are set by the Qur‟an and Sunnah and is
+referred to as Hukm Shari‟i or Hukm Ash-Shar‟ee (the
+Divine Law).
+
+From another point of view, if a new case arises that
+does not have any parallel in the cases a faqih knows,
+then he or she can invoke a qaidah (maxim) as a kind of
+partial evidence to support a ruling. This is called
+Istinbat. Accordingly, the Qaeda is from the Quran and
+Sunnah in terms of purpose and objective, but not in
+wording, so the wording in this case is derived. It is
+called Istanbati -‫( استىباطي‬i.e. something that is derived).
+
+HUKM AT-TAKLEEFEE: Primary Rules or defining
+law (a branch of hukm ash-shar‟ee); `Defining law' is a
+locution or communication from the Lawgiver addressed
+to the mukallaf which consists of a demand or of an
+option; it occurs in the five varieties of wajib, mandoob,
+haram, makruh and mubah (according to majority).
+
+ISTINBAT (‫)االستىباط‬: Inference, deducing a somewhat
+hidden meaning from a given text.
+
+ISTISLAH: Seeking the better rule for the public good
+ISTISNA: Exception
+
+IBADAH: Worship
+
+JAA'IZ: Allowed
+
+IBAHAH: Permissibility
+
+JAHL: Ignorance
+
+IF‗AL: The imperative
+IJAZA: Permission and authorization to narrate
+traditions on someone‟s authority
+IJMA: Scholarly Consensus
+IJTIHAAD AL-MADHHABI: Ijtihaad based on the
+study of different views
+
+JAHL AL-MURRAKAB: Ignorance by which one
+believes something to be different than what it really is
+e.g. considering Jesus to be God
+JAHL BASIT: Not having information regarding
+something, and thus being ignorant of it e.g. not
+knowing regarding what is at the bottom of the sea
+JAMHOOR: Majority
+
+IJTIHAD or IJTIHAAD: This word is driven from the
+root letters Ja-ha-da – which mean to make an effort; In
+the context of jurisprudence, it refers to independent
+jurisprudential investigation when deducing legal
+rulings from Shariah sources.
+ILLAH (‫)علة‬: Effective cause
+IMAAN: Belief, faith in Allah, His angels, His Books,
+
+KALAAM: Speech; It also refers to studies of
+philosophy and logic
+KHABR: News
+KHWARIJ: Separatists; Those of Ahl al-Bid‟aa
+(innovators in religion) who, in any day and age, fight
+against the caliph and/or against the mainstream Ulema
+
+www.australianislamiclibrary.org
+
+3
+
+Australian Islamic Library - 2015
+of the Muslims and their commonality by force of arms
+and/or recourse to anathema which includes falsely
+declaring others disbelievers, pagans, misguided, cultists
+and so forth.
+KINAYAH: Allusive; Indirect
+
+right to simplify one‟s life. For example in Islam, one has
+the right to shorten his prayers while on a journey. After
+ease in life is achieved, there is „Tahsiniyyat‟ or
+Embellishments; which is enjoying the luxuries in life
+like wearing good clothes and eating good food.
+MASAA'IL: "That which is asked about"; an issue in
+Fiqh.
+
+KUFR: Disbelief
+MADARASA: School; Place of education
+MADHAAHIB: Plural form of Madhab which
+means"school of thought" i.e. the sum total of the legal
+rulings of the founder of that Madhhab, as well as those
+of his students and all scholars who adhered to his
+approach.
+
+MASHHUR : Famous; Applied to a hadith, it refers to a
+type of ahad narration that has five to nine narrators at
+each link of its chain and is therefore nearly massnarrated.
+MASLAHAH: Benefit
+
+MADHHAB: Path; A School of Law (madhhab fiqhi) in
+Islam
+
+MASLAHAH MURSALAH: Benefit or interest;
+Unrestricted public interest (Also see: AL-MASALIH
+AL-MURSALAH)
+
+MAHZOOR: Prohibited
+
+MASNOON: Recommended
+
+MAJAAZ: Figurative meaning
+
+MIQYAS: Scales
+
+MAKROOH: ‗Better not to do‟ Things - Something
+which is not liked but if done is not a sin.
+
+MU‘TAZILITES: Isolationists; A deviant sect who
+made reason the ultimate criterion of truth, forged a
+political alliance with the Shia and, like them, held the
+Qur'an to be created and the Attributes to be null in
+themselves and to mean none other than the Essence;
+These are known to reject hadith despite the fact that
+Quran cannot be completely understood without
+referring to hadith and sunnah of the messenger of Allah
+
+MANDOOB: That which has been commanded but not
+in the manner of making it obligatory; One who adopts
+it is rewarded and the one who does not, is not sinning
+MANSUKH: Abrogated text or ruling in the Quran or
+hadith
+MAQASID: Purposes; Objectives
+MAQASID ASH-SHARIAH: Purposes and Objectives
+of Shariah. Maqasid Al-Shariah means the objective of
+the Shariah Laws. This is a very important field of
+knowledge because when you study the Shariah Laws
+you must understand the context in which the ruling
+was made.
+According to Imam Ghazali the objective of the Shariah
+Law is to protect the well-being of the people which lies
+in the safeguarding of their faith (deen), their lives
+(nafs), their intellect (aql), their posterity (nasl) and
+their wealth (mal). The underlying theme is the
+realisation of the benefit for the people (maslahah) or
+public interest. These are called „Dharuriyyah‟.
+After the „Dharuriyyah‟ is fulfilled, there is the‟
+Hajjiyat‟ or Complementary. In „Hajiyyat‟, one has the
+
+‫ﷺ‬
+
+MUBAH: Lawful; Allowed; That which belongs to you
+or you have the permission of the owner to use; Your
+belongings
+MUBAYYAN: Explicit
+MUBAYYIN: One who makes clear
+MUBEEN: Clear
+MUFTI: One who issues legal opinions and responses
+MUHADITH: Hadith Scholar; It is singular form of
+„Muhaditheen‟
+MUHKAM: Equivocal and singular in meaning
+MUJMAL: Comprehensive
+
+www.australianislamiclibrary.org
+
+4
+
+Australian Islamic Library - 2015
+MUJTAHID: Qualified to exercise ijtihad
+
+sometimes, with sunnah.
+
+MUKALLAF: Legally responsible person, i.e. one who
+has reached the Islamic legal age of maturity, and thus
+has become responsible for performing Islamic duties
+and meets all relevant requirements
+
+MU'TAH: Temporary marriage that is not allowed
+anymore. Shiites, however, still practice this.
+
+MUKALLAFEEN: Plural of Mukallaf
+MUNQATI': Broken; A hadith whose link anywhere
+before the successor (i.e., closer to the traditionalist
+recording the hadith) is missing.
+MUQALLIDEEN: Those who do taqleed; those who
+follow someone in their religion
+MUQAYYAD: Restricted
+MURJI‘ITES: It is a deviant sect which believed that sin
+does not spoil belief as goodness does not benefit
+disbelief. They believed that faith is a private matter and
+those who denounce faith by their tongue, their actions
+and their adherence to another faith may still be from the
+folks of paradise. There are three distinct levels within
+this group.
+
+MUTASHAABIH: The Intricate; Scholars like AtTabri use this word for verses that only Allah
+understand (e.g. Ilif, Laam, Meem). Other scholars also
+include those verses in Mutashabihat (plural of
+mutashaaabih) which can have many meanings.
+MUTAKALLIM: Singular of mutakallimun; Expert in
+kalam; The one who speaks
+MUTAWATIR: Mass-narrated; Applies to a narration
+that has, at each link of its transmission chain, a number
+of narrators such as precludes collusion and collective
+fabrication on their part, forming tawatur. The
+determination of that number varies among the scholars
+of hadith.
+MUTLAQ: Absolute
+NAAFIL or NAFIL: Optional or voluntary acts of
+worship
+
+Jahmite Murji‟ism - Those who claim that Imaan is
+merely knowledge alone. Some of the leading scholars of
+the Salaf declared this group to be disbelievers.
+
+NAHY: Prohibition
+
+The Karraamites - Those who restrict the Imaan to the
+profession on the tongue without including the
+[affirmation of the] heart.
+
+NASKH: Abrogation
+
+Murji‟ite Legists - Those who state that Imaan is belief
+in the heart and profession on the tongue and they
+remove deeds from the definition of Imaan.
+
+NASUS: Plural of Nass
+
+MURSAL: Dispatched; A hadith of the Prophet ‫ﷺ‬
+narrated with a chain missing the Companion-link or,
+sometimes, a lower link through irsal.
+
+QATI‘I – Definite
+
+MUSNAD: Founded; In terms of usul al hadith - a
+narration or compilation of narrations that are
+supported by a narrative chain going back to the Prophet
+‫ﷺ‬.
+MUSTAFTI: The inquirer; The questioner; The one who
+is seeking a fatwa
+MUSTAHABB
+or
+MUSTAHAB:
+Desirable;
+Something which if done is rewarded. If it is not done
+there is no sin; Synonymous with mandoob and also,
+
+NASIKH: Abrogating text
+
+NASS: Textually explicit legal statement; Explicit texts
+
+QAIDAH: Rule
+
+QIYAS: Analogical deduction of Islamic laws (New
+laws are deduced from old laws based on a similarity
+between their causes).
+RAFIDI‘ITES or RAWAFIDH: Those who reject or
+refuse; This refers to Shiites who refuse to accept
+authority of many noble companions of Prophet
+Muhammad, mothers of believers and some of the core
+tenants of Islamic faith
+RAKAT OR RAKAH: One cycle of standing, bowing
+and prostrations during Prayer
+
+www.australianislamiclibrary.org
+
+5
+
+Australian Islamic Library - 2015
+RA'Y: Opinion or personal opinion; Personal reasoning
+
+Prophet Muhammad ‫)ﷺ‬
+
+SAHABAH: Companions of Prophet Muhammad ‫ﷺ‬
+
+TAALIB AL-‗ILM: Seeker of knowledge
+
+SAHIH: Correct, Authentic, Valid
+
+TAA‘RUD: Conflict of equal strength evidences
+
+SALAF: Previous; The early Muslims, of the first three
+eras i.e. The Companions, their Successors, and their
+successors.
+
+TABI‘EEN: „Followers‟ or „Successors‟ – refers to the
+second generation of Muslims who came after the
+Companions
+
+SALAT UL JINAZA: The Muslim funeral prayer
+
+TAFSIR: Exegesis; Explanation of Quran
+
+SARIH: Clear
+
+TAHAARAH: Purification
+
+SHAARI': Law Giver
+
+TAHLIL: To make legal
+
+SHAKK: Doubt
+
+TAHRIM: Forbiddance
+
+SHARIAH: The divine code of Law; The term Shariah
+refers to divine guidance as given by the Holy Quran
+and the Sunnah of the Prophet Muhammad ‫ ﷺ‬and
+embodies all aspects of the Islamic faith, including beliefs
+and practice.
+
+TAKHSEES: Restriction; restriction of the meaning of a
+text; To make something specific
+
+SHART: A necessary condition, a stipulation in a
+contract, something which needs to exist or be present in
+order for something (like a transaction) to be valid. Also
+a condition or stipulation in a contract. Plural of Shart
+is Shurut.
+
+TALAB: Want; Requirements
+
+SHRIK: Making partners with Alllah
+
+TAKHSIS AL AMM: Specification of a part of AlAmm (generic)
+
+TAMAN: Wish
+TAQLEED: Following; In terms of Fiqh, taqleed is the
+acceptance of the saying of a person without argument.
+TARJEEH: Preference of one over the other
+
+SIWAK: Miswak (piece of a branch of tree used to clean
+teeth)
+
+TAWATUR: Continuity
+
+SUNNAH: Road or practice(s); Standard practice,
+primarily of the Prophet ‫ﷺ‬, including his sayings,
+deeds, tacit approvals or disapprovals
+
+TAWFIQUE: Success; Reconciliation
+
+SUNNAH MU‘AKKADAH: An act that was always
+performed by the Messenger of Allah ‫ﷺ‬, but
+occasionally omitted so as to differentiate from
+something that is Wajib. The status of a Sunnat-eMu‟akkadah is near a Wajib.
+
+THAWAB: Reward
+
+The opposite of it is SUNNAH GHAIR
+MU‟AKKADAH - The Messenger of Allah had
+performed such an act, but also omitted it without any
+reason.
+SUNNI: Those who follow Sunnah (traditions of
+
+TAWHID: Oneness of Allah
+
+ULEMA: Scholars; Those who possess „ilm‟ or
+knowledge
+UMMAH: Nation of Muhammad ‫ﷺ‬
+URF: Customary practice
+USUL: Plural of Asl; Basis; Roots
+USUL AL FIQH: Principles of Islamic Jurisprudence;
+Islamic legal theory providing principles and guidelines
+
+www.australianislamiclibrary.org
+
+6
+
+Australian Islamic Library - 2015
+on interpretation; The bases or roots of jurisprudence
+
+WAJIBAT: Plural of Wajib
+
+USUL AL-HADITH: Science that investigates
+foundations of hadith and sunnah including analysis of
+the chain of narrators, text, transmission, biography of
+narrators, classification and so on.
+
+WUJOOB: Obligation
+YAQEEN: Certainty
+
+WAHAM or WAHM: Doubt
+WAJIB AYN: See Fardh Ayn
+WAJIB KIFAYA: See fardh kifayah
+
+www.australianislamiclibrary.org
+
+7
+
+Australian Islamic Library - 2015
+
+FOREWORD
+All Praise is due to Allah, we praise Him, we seek His aid, and we seek His forgiveness.
+We seek refuge in Allah from the evils of our souls and from the evils of our actions.
+Whomsoever Allah guides, then there is no one to misguide him, and whomsoever Allah
+leaves to go astray, then there is no one to guide him.
+
+‫ وأشهد أن حممدا رسول اهلل‬،‫أشهد أن ال إله إال اهلل‬
+ِ ّ ‫اللهم‬
+‫حممد وعىل آلِه وصحبِه وسلِّم‬
+َّ ‫صل عىل سيِ ّدنا‬
+َّ
+Before we begin with translation and commentary of Al-Waraqat of Imam AlJuvaini, we consider it useful to present a broad overview of the topic, book at
+hand and its author. Following few passages throw some light on these aspects.
+About the Topic – Usul Al Fiqh:
+Usul al-fiqh refers to the body of evidence, principles, methods and approaches
+that Islamic jurists utilise to provide rulings, fatwas and solutions to problems.
+Understanding the research mechanisms deployed through the use of Usul Al
+Fiqh, we come to know how to do scholars analyse various sources of Islamic
+law and comes up with certain legal rulings. Understanding these usuls (or
+principles), we also learn to appreciate and respect difference of opinion among
+the learned scholars and Imams.
+
+www.australianislamiclibrary.org
+
+1
+
+Australian Islamic Library - 2015
+
+―Through Usul al-fiqh, we also learn that, positions that are not constructed by
+referring to the principles and means found in the sciences [of Fiqh] are
+positions which are not considered acceptable to follow, because they are
+constructed and concluded without properly attending to acceptable research
+methodology, and, therefore, have no binding authority. Authoritative
+positions in Islam are only concluded and constructed by way of proper
+research techniques. These techniques guide research by outlining what
+constitutes a source for research and what principles are to be used to
+understand that source. Furthermore, the techniques emphasize how, when,
+and why a rule is derived from that source under research and what
+qualifications must he or she possess as a researcher in order to qualify for such
+an undertaking‖1.
+Knowledge of this field can therefore play and important role in letting us
+protect ourselves from the misguided individuals and sects.
+Generally, the study of Usul al-Fiqh incorporates the study of the following four
+main branches (Al-Haddad, 2008):
+Note: An explanation of some of the important terms used in following points, have
+been explained in footnotes. Readers who do not already have an introductory overview
+of Usul Al Fiqh, can opt to skip them for the time being and come back for a review after
+going through some chapters in this book.
+
+1 (Yusuf Rios, 2013)
+
+www.australianislamiclibrary.org
+
+2
+
+Australian Islamic Library - 2015
+
+i)
+
+Islamic sources (or evidence) on which all of the ahkam 2 have been
+based. These are texts of the Quran and the authentic Sunnah as well as
+the consensus of the Companions3. This also includes the discussion of
+proof [adillah], their types and their authority. Some of these adillah are
+Qiyas4, Istihsan5, ‗Urf6, al-Masalih al-Mursalah7, etc.8
+
+2 Ahkam means ‗Rulings‘
+3 Ibn Taymiyah (may Allaah have mercy on him) said:
+
+If we say Quran, Sunnah and ijmaa‟, they all stem from the same source, because the
+Messenger ‫ ﷺ‬agrees with everything that is in the Quran, and the Ummah is
+unanimously agreed upon it in general. There is no one among the believers who does
+not believe that it is obligatory to follow the Book. And everything that the Prophet
+enjoined in his Sunnah, the Quran obliged us to follow it. So the believers are
+unanimously agreed upon that, and everything on which the Muslims are unanimously
+agreed can only be true and in accordance with what is in the Quran and Sunnah.
+(al-Munajjid, 2014c)
+4 Qiyas is the extension of a Shariah ruling from an original case (Asl) to a new case (Far') -
+
+given the new case has the same effective cause (Illah) as the original case.
+(A later section in this book elaborates this concept further)
+5 Istihsan literally means to deem something preferable (or to declare something better).
+
+Istihsan has been validated by Hanafi, Maliki and Hanbali jurists. Imam Shafi‘i does not
+consider this as a valid source.
+Sheikh Sajid Umar explain it as follows:
+Istihsan is to leave a daleel for another daleel because of a daleel – i.e.
+leaving a practice identified through some evidence
+for a practice identified through some other evidence(s)
+because of another daleel or evidence which teaches us to go to that particular
+evidence which we decide to go to or prefer.
+(Sheikh Sajid Umar, 2013a)
+Those who advocate Istihsan mention:
+―It has been mentioned that decision of Umar Bin Khattab R.A. to suspend ‗hadd‘ penalty
+(penalty prescribed by the Quran and Sunnah) of amputation of hand during famine is an
+www.australianislamiclibrary.org
+
+3
+
+Australian Islamic Library - 2015
+
+example of Istihsan. Here positive law of Islam was suspended as an exceptional measure
+in an exceptional situation. A major jurist Al-Sarakhsi considers Istihsan as a method of
+seeking facility and ease in legal injunctions and is in accord with the Quran (2:185)‖.
+(Shah Abdul Hannan, 2005)
+Dr. Hashim Kamali gives following as an example for a contemporary situation for
+implementation of Istihsan:
+Oral testimony was the standard form of evidence in Islamic law. However, now in some
+cases photography, sound recording and laboratory analysis have become more reliable
+means of proof. Here is a case of Istihsan by which method we can prefer these means of
+proofs over oral testimony in many cases.
+(Kamali, 1991)
+6 Urf
+
+stands for ‗good customs that community approves‘ (Auda, 2008, p. 58). In the
+schools of fundamentals of law, most scholars consider custom to be an effective factor
+only in the application of the Islamic law, rather than a source of law in its own right.
+The following are the conditions of Urf (Hannan, 2006):
+-
+
+It must be common and recurrent.
+Urf must be in practice at the time of transaction, i.e. past Urf is no basis.
+Custom or Urf must not violate the nass or clear stipulation of the Quran and the
+Sunnah.
+Custom must not contravene the terms of a valid agreement (valid according to
+Shariah)
+
+7 Among the major Sunni schools of Islamic jurisprudence, Imam Malik is the leading
+
+proponent of upholding maslahah as one of the Shariah‘s sources. He uses the term almasalih al-mursalah to connote interests that are not covered by other sources. Imam
+Shafi‘i is also reported to have favoured this.
+(Menski, 2006, p. 334)
+Many jurists, however, rejected this as a source, with the exception of Imam al-Tufi
+(Hanbali) and Imam al-Ghazzali (Shafi`i). Al-Ghazzali uses istislah (seeking the better rule
+for the public good) but does not claim it as the Shariah‘s fifth source. He also restricts its
+application to situations deemed to be necessary to serve the public good.
+(Dusuki & Abdullah, 2007)
+He defines maslahah as follows:
+Maslahah is essentially an expression for the acquisition of benefit or the repulsion of
+injury or harm, but that is not what we mean by it, because acquisition of benefits and the
+www.australianislamiclibrary.org
+
+4
+
+Australian Islamic Library - 2015
+
+repulsion of harm represent human goals, that is, the welfare of humans through the
+attainment of these goals. What we mean by maslahah, however, is the preservation of the
+Shariah‘s objectives.
+(Dusuki & Abdullah, 2007; Syaputra et al., 2014)
+Yusuf Al-Qaradawi explains that maslahah is one of the objectives for the creation of
+maqasid Shariah, where Maslahah prioritizes the needs of the public and its effects, and also
+cannot be separated in the attention to restrictions that are not sharia compliant.
+(Syaputra et al., 2014)
+Abdur Rahman I. Doi (1984) explains the similarity in purpose for some of the source
+mentioned above with regards to ‗public interest‘:
+―The jurists of different schools have used different Arabic terms to describe it.
+- The Hanafis call it istihsan meaning equitable preference to find a solution.
+- Imam Malik calls it Al-Masalih Al-Murasalah, that is, the public benefit or public
+welfare…
+- Imam Ahmed bin Hanbal calls it istislah seeking the best solution for general interest.
+- The Hanbali scholar Ibn Qudamah as well as Maliki jurist Ibn Rushd have
+occasionally used the term Istihsan.
+- The only school that does not recognize istihsan as a source is Shafi‘i school. According
+to Imam Shafi‘i, if it is allowed, it can open door to the unrestricted use of fallible
+human opinions since the public interest will vary from place to place and time to
+time‖.
+Regarding sources of Shariah other than Quran, Sunnah, Ijma and Qiyas, Sheikh Saleh AlMunajjid explains:
+―With regard to sources other than these four, such as the opinions of the Sahabah,
+istihsaan (discretion), sadd al-dharaa‟i‟ (blocking the means that lead to evil), istishaab, ‗urf
+(custom), the laws of those who came before us, al-masaalih al-mursalah (things that serve
+the general interests of the Muslims) and so on, the scholars differed as to how valid it is
+to use them as evidence. According to the view that they are acceptable – all or some of
+them – they are secondary to the Quran and Sunnah and should be in accordance with
+them‖ (al-Munajjid, 2014c).
+The term Istishab is explained as follows:
+―Ibn al-Qayyim defined it as being the continuation of what is established or the negation
+of what does not exist, i.e. it is the judgement, negative or positive, continues until there
+is evidence of a change of state. This continuance is not proved by positive evidence, but
+by the absence of the existence of new evidence. Al-Qarafi defined it: ‗Istishab means the
+www.australianislamiclibrary.org
+
+5
+
+Australian Islamic Library - 2015
+
+ii)
+
+Rulings (Ahkam) and what they mean, their types, what affects them,
+how they can be applied, and the conditions relating to their use.
+
+iii)
+
+Principles or rules available to the scholars to deduct and deduce
+ahkam based on the adillah aforementioned and
+
+iv)
+
+Qualifications and conditions required of the jurists [fuqaha]
+responsible for the correct application of Usul al-Fiqh. This is
+sometimes referred to as the conditions of ijtihad.
+
+Dr. Hatem Al-Haj‘s representation of inclusions and exclusions of the field of
+Usul Al-Fiqh also covers above mentioned four points and provides an
+overview of essential aspects related to each point:
+
+belief that the past or present matter must be assumed to remain as it is in the present or
+future‘.‖(Muhammad Abu Zahrah, 2008)
+www.australianislamiclibrary.org
+
+6
+
+Australian Islamic Library - 2015
+
+Figure 1 - An Overview of Usul Al-Fiqh (Dr. Hatem Al-haj and M.H. Kamali)
+
+The process of deducing Shariah rulings, utilizing Usuls, can be broadly laid out
+as follows with each element having its own specific requirements and tools to
+utilize. This book will cover all of the aspects shown in the model below at
+introductory level.
+www.australianislamiclibrary.org
+
+7
+
+Australian Islamic Library - 2015
+
+Figure 2 - Inputs for Ijtihad and Deduction of Rulings (Creative Common Attribution: Australian Islamic Library)
+
+Note:
+Matter of Ra’y is of high importance and we accordingly consider it very useful to explain it further:
+Ra’y or private judgement can be used in some cases as it is reported to be used by companions and
+salaf. However, it has got different forms which need to be understood well.
+Dr. Bilal Philips explains:
+“If Ijma could not be achieved for any matter and over-whelming majority opinion could not be
+determined because of major differences of opinion, the caliph would make his own Ijtihaad, which
+would then become law. It should also be noted that the caliph had the right to over-rule the
+consensus” (Philips, 2005, p. 47).
+
+www.australianislamiclibrary.org
+
+8
+
+Australian Islamic Library - 2015
+
+Regarding the era of tabi’un (generation after the companions), following is an example of use of Ra’y
+by Said Ibn Musayyab of Medina, who is considered to be among the foremost authorities in fiqh
+among the Tab'ieen (generation succeeding the Sahabah). He was also a son in law of Abu Hurairah
+R.A.:
+“Ibn al-Musayyab followed the traditions of 'Umar R.A. in judgement and fiqh; ra'y (opinion) had
+great importance in his view because 'Umar R.A. frequently formed an opinion on matters about
+which there was no explicit text in the Book of Allah or the Sunnah of the Messenger. So Ibn alMusayyab also used ijtihad (independent reasoning) to answer problems presented to him about
+matters on which there was no explicit text from the Book or Sunnah or judgement or fatwa of a
+Companion: he would give a fatwa based on his opinion which did not exceed what was proper. That
+is why it is transmitted that he used to give fatwa when others feared to do so. He was the Imam of
+the fuqaha' of Madina in the time of the Tabi'un. He did not refuse to give a fatwa when there was
+need for one. His opinion was based on the firm pillars of fiqh: the Qur'an and hadith, and the
+judgements of the Prophet and Rightly-Guided Khalifs” (Zahra, 2000). Ibn Al-Musayyab is known to be
+the most influential of the 7 famous fiqaha of Madina in the times of tabi’un (Abd-Allah, 2013, p. 43).
+It is to be understood, however, that any random ra’y or personal opinion which is not consistent with
+the sources of Shariah is to be rejected straight away. “We find that Mu’tazilites, Murji’ites, the
+Rafidi’ites and other heretical sects interpreted the Quran on the basis of their own opinions, what
+they themselves found to be reasonable, and conclusions that they reached concerning language.
+Therefore, you will find that they did not rely on the traditions of the Prophet (PBUH), his companions,
+their successors, or Muslim leaders. For neither did they depend on Sunnah, nor on the consensus or
+writings passed down by pious ancestors. They relied on reasons and language, not on the wellknown books of Tafsir, interpretation, hadith and traditions of early Muslims; they relied rather on
+books of literature and scholastic theology that were the products of their own minds” (Al-Ani & Tel,
+1999, p. 130).
+Above explanation is further complimented by following explanation from Muhammad Hashim
+Kamali9 from historical point of view regarding development of fiqh:
+- The Companions were careful not to exercise ra'y at the expense of the Sunnah.
+- With territorial expansion and dispersal of those learned in Hadith, fear of isolating the
+Sunnah led the jurists to restrict free recourse to ra'y. Exercise of ra'y during the formative
+stages led to considerable disagreement.
+- Those who called for a close adherence to the Hadith, namely Ahl al-Hadith, mainly resided in
+Makkah and Madinah and did not engage in giving Ra’y based rulings
+(In following centuries), the fuqaha' of Iraq, as opposed to Ahlul Hadith scholars of Hejaz, resorted
+more liberally to personal opinion, which is why they are known as Ahl al-Ra'y. In their view, the
+Shariah was in harmony with the dictates of reason. Hence, they had little hesitation to refer both to
+the letter and spirit of Shariah. This was the right thing to do in the era when Iraq was plagued with
+Khwarij, philosophers and hadith fabricators. Imam Shafi’i through his works, including the famous
+9 (Kamali, 1991)
+
+www.australianislamiclibrary.org
+
+9
+
+Australian Islamic Library - 2015
+
+Ar-Risala, brought the two methodologies (Ahl ul Hadith and Ahl ur Ra’y) under an integrated system
+of Usul al fiqh (Sheikh Sajid Umar, 2013b).
+With this discussion on Ra’y, previously presented overview of terms like Istihsan, Masalih Murasalah
+etc. needs to be read in conjunction for further benefit.
+
+About the Book:
+Al-Waraqat was written by Imam al-Haramayn al-Juwayni, a noble 5th-century
+scholar. This book is a good starting point for those beginning their journey into
+the sciences and foundations of fiqh. Book briefly touches upon some key
+aspects related to deduction of rulings and considerations for mujtahids. It
+should, therefore, be considered only a primer to this subject.
+
+Figure: A Historical Manuscript of Al-Waraqat (Digital copy available at Australian Islamic Library)
+
+Sheikh Musa Furber introduces Al-Waraqat as follows:
+―Students of jurisprudence read through a series of texts with their instructors.
+The first text usually reads like a list of definitions and rules, with occasional
+examples. Each book in the series adds more definitions, rules, and examples –
+as well as variant opinions, and argumentation to champion one opinion.
+
+www.australianislamiclibrary.org
+
+10
+
+Australian Islamic Library - 2015
+
+One of the first books of jurisprudence taught to students is the Waraqāt of
+Imām al-Juwaynī (d. 468AH). The text is limited to definitions and rules – with
+very few examples and explanation – making it a perfect book for memorizing
+the very basics. But it requires a commentary, so it is often taught with a short
+interlinear commentary by Jalāl al-Dīn al-Maḥallī (d. 864AH). Al-Maḥallī‘s
+commentary fleshes out the basic text with explanation, arguments behind its
+opinions, and numerous examples‖.(Sheikh Musa Furber, 2014)
+In accordance with above, we have also used Imam Al-Mahalli‘s commentary
+along with other explanation from other scholars.
+It is to be noted that, though this book is brief in nature and presents
+information in reasonably sized segments, new starters may find some terms
+and concept difficult to understand at their own and may end up having ‗half
+knowledge‘. Scholars mention that ‗having half-knowledge is more dangerous
+than having no knowledge‘. Accordingly, it is strongly advised to read this
+book under a learned scholar of Islam and refer to other texts on Usul al-Fiqh as
+well in order to reinforce and further the learning acquired through this book.
+About the Author:
+His full name was Abdul Malik Ibn Abdullah Ibn Yusuf Ibn Abdullah Ibn
+Yusuf Ibn Muhammad Ibn Huyuwiya Al-Tai‘i Al-Nisaburi Al-Shafi‘i and he
+was born in year 419H in a learned family. Both his father and grandfather
+were great faqihs and sheikhs of their time. He was fortunate to benefit from
+many learned scholars of his time including the noble masters of hadith. Imam
+Juvaini is also known to have studied in Madrasah Al-Baihiqi.
+www.australianislamiclibrary.org
+
+11
+
+Australian Islamic Library - 2015
+
+Imam Al-Juvaini taught at haramain for years and also served there as mufti. For
+his noble services to the community there, he was given the title of ‗Imam Al
+Haramain‘10. In later part of his life, he also taught at Madrasah Nizamiyah
+which was established by Seljuq vizier Nizam ul Mulk to revive the authentic
+Islamic teachings (roots of famous Dars Al-Nizami go back to this madrasah).
+His famous students include Imam Ghazali, Ali bin Muhammad bin Ali AlTabri, Ahmed bin Muhammad bin Al-Muzaffar and others11.
+About the commentary:
+In the compilation of this commentary, translations from Hamza Karamli and
+David Vishanoff have been used with slight modifications, as required. As the
+purpose of this book is not a mere representation of translation and
+commentary but to assist seekers of knowledge understand and grasp relevant
+terminology, we have also included Arabic words with key terms in text for
+vocabulary enhancement and facilitation in further study. A detailed glossary is
+also made available for reference.
+In compiling this commentary, we have tried to avoid personal opinions to the
+best of our ability and derived explanation from the works of the learned
+scholars and Imams such as Sheikh Ibn Al-Uthaymeen, Sheikh Yahya Adel
+Ibrahim, Sheikh Saleh Al-Munajjid, Sheikh Abdur Rahman Ibn Nasir As-Saadi,
+Sheikh Salih Al-Fawzan, Sheikh Saleh As-Saleh, Dr. Hatim Al-haj, Dr. Hashim
+Kamali, Sheikh Sajid Umar and others.
+
+10 (Leaman, 2015, p. 269; Meri, 2005, p. 428)
+11 (Al-Hajri, 1998, pp. 15–24)
+
+www.australianislamiclibrary.org
+
+12
+
+Australian Islamic Library - 2015
+
+Further Reference:
+There are many useful books available on this subject. However, we have found
+that ‫ األصىل ين عهى األصىل‬of Sheikh Muhammad Ibn Al-Uthaymeen can be used
+very effectively in conjunction with this book as it compliments almost all of the
+material included in this book.
+
+www.australianislamiclibrary.org
+
+13
+
+Australian Islamic Library - 2015
+
+ِ ِ
+‫لت ُب ّدَا‬
+ُ ‫فلم أ ِجد ِم ّ ُاسئ‬
+
+‫عت فِي ِه ُمست َ ِمدا‬
+ُ ‫َوقَد َش َر‬
+ِ ‫ِمن َربنَا التُوفِيق لِل ۡ َّص‬
+‫واب‬
+‫الد َاري ِن بالكتاب‬
+َ ‫َوانف َع ِف‬
+I found myself obliged to do that which I was asked,
+I began carving it, seeking
+from our Lord, guidance to the truth, tawfique and thawab,
+And benefit in both the worlds through this book
+(Beautiful words from Al-Imam Yahya ibn Nur Al-Din Al-Imritiye)
+
+www.australianislamiclibrary.org
+
+14
+
+Australian Islamic Library - 2015
+
+THE DIFFERENCE BETWEEN LAW
+AND LEGAL METHODOLOGY
+These pages deal with the knowledge of Usul al-fiqh12.
+The phrase Usul al-fiqh is composed of two simple parts:
+(1) Usul, and
+(2) Fiqh13
+
+12 Imam
+
+Shafi‘i is considered to be the founder of Usul al-Fiqh as a discipline in an
+organized textual form. He studied with Imam Malik, Imam Ahmed and famous students
+of Imam Abu Hanifah including Imam Muhammad al-Shaibani (Firas Al-Khateeb, 2013;
+Sheikh Abdullah Oduro, 2015). Having studied under the Maliki School as well as Hanafi
+School, Imam Al-Shafi observed a difference of opinion between the people of Madinah
+(Ahlul ul Hadith) and people of Iraq (Ahlul Ra‟y). As explained before, the use of Ra‟y was
+not a negative practice but the one in line with prevalent situation in Iraq at that time
+(Sheikh Abdullah Oduro, 2015). Having studied both schools of fiqh, as well as having a
+vast knowledge of authentic hadith, Imam al-Shafi‘i sought to reconcile the two
+philosophies and introduce a clear methodology for fiqh – known as usul al-fiqh. His
+efforts towards this end resulted in his seminal work, ―Al-Risala‖. The framework he
+provides for Islamic law became the main philosophy of fiqh that was accepted by all
+subsequent scholars of Islamic law. Even the Hanafi and Maliki schools adapted to work
+within the framework that al-Shafi‘i provided – May Allah raise his status in Jannah.
+The contributions of Imam al-Shafi‘i in the field of usul al-fiqh were monumental. His
+ideas prevented the fraying of the study of fiqh into hundreds of different, competing
+schools by providing a general philosophy that should be adhered to. But it also provided
+enough flexibility for there to still be different interpretations, and thus madhabs.
+13 The word fiqh, linguistically, refers to jurisprudence, an understanding, or to know
+
+something. Some linguists consider it beyond mere understanding and use this for
+‗precise understanding‘(Sheikh Abu Zaid Zameer, 2013; Sheikh Sajid Umar, 2015).
+www.australianislamiclibrary.org
+
+15
+
+Australian Islamic Library - 2015
+
+An asl [‫( ]اصل‬plural: Usul) is something on what other things are built upon (on
+the other hand, a far‟ [‫]فرع‬, on contrary, is what is built on another).
+Fiqh is the ―knowledge of revelatory rulings (Ahkam Ash-Sharia‟a - ‫)األحكام الشرعية‬
+that are established through ijtihaad”14.
+TYPES OF REVELATORY RULINGS:
+There are seven revelatory rulings15:
+
+Islamically, however, it takes its cue from knowing something based on statements and
+actions derived from the revelation to Prophet Muhammad ‫ﷺ‬. This is what forms the
+foundation of Islamic Legislation, also called Shariah, whose rulings or HUKM is based on
+four principle sources:
+1.
+2.
+3.
+4.
+
+The Book of Allah – The Quran
+The Sunnah – The teachings of Prophet Muhammad ‫ﷺ‬
+Ijma – The consensus of the ulema on a particular matter.
+Qiyas – Logical deduction. This is not merely deducing according to one‘s whims,
+but in light of clauses that may be in place and in order to facilitate the best
+position in light of the law of Allah.
+
+Each of these four principles needs to be researched properly, so that the procedure of
+deriving rules can be fully understood. (Abdul Aleem, 2015)
+Also refer to earlier discussion on sources of Shariah in the Foreword of this book.
+Imam Shafi‘i defines it as follows: ―‗Knowledge of the practical rules of shariah acquired
+from the detailed evidences in the sources of shariah‖ (Sheikh Abu Zaid Zameer, 2013;
+Sheikh Sajid Umar, 2015; 1998 ,‫)عـبـد الـعـلـي مـحـمـد به وـظـام الـديـه‬
+14 See definitions for Ahkam and Ijtihaad in glossary for further clarification of Imam Al-
+
+Juvaini‘s definition of Fiqh.
+15 The 7 categories of rulings mentioned here are called Ahkam At-Takleefi.
+
+Following explanation from Sheikh Yahya Ibrahim will clarify this concept:
+The Hukm ash-Shar‟ee / Divine Commandments have been classified into two major
+categories:
+www.australianislamiclibrary.org
+
+16
+
+Australian Islamic Library - 2015
+
+Figure: Types of Hukm Ash-Shar’ee
+1.Hukm at-Takleefee / laws of personal obligation
+This is a ruling for an individual who is obligated to follow—meaning that there is
+something that you are asked to do or to stay away from.
+For example, a Muslim must perform the Salat and pay the Zakat. A Muslim is
+prohibited from consuming alcohol. In this case we say that the hukm is self-sufficient;
+the action stands by itself and does not rely on anything.
+2.Hukm al-wad‟ee / rulings that concern Preconditions & collective situations
+This is a ruling for the general community and is based on conditions and
+prerequisites that establish personal or communal obligations.
+For example, performing wudhu is a pre-Requisite for the salat. Or, sighting of the
+moon establishes Ramadan. Or, a witness for a marriage.
+It is something needed for an obligation to be fulfilled or established.
+Within a community, however, there are certain people who are obligated to perform
+acts on behalf of the whole based on their specific condition. Others become obligated
+personally as circumstances arise.
+All people rise to particular levels of responsibility and become Mukallaf - obligated. For
+example, a child below the age of ten is not required to pray or fast so he or she is NOT
+mukallaf for these actions—whereas a person who has reached puberty MUST pray and
+fast, making them mukallaf for these actions.
+
+www.australianislamiclibrary.org
+
+17
+
+Australian Islamic Library - 2015
+
+SUB-CLASSIFICATIONS OF AHKAM ASH-SHARAI‘A:
+A comparative overview of types and naming of Ahkam Ash-Sharia‟a from Imam AlJuvaini and the four madhahib is presented below:
+Imam Al-Juavaini
+
+Imam Ahmed, Imam Mali, Imam
+Shafi'i
+
+Obligatory (wajib)
+
+Mandatory (wajib)
+
+Imam Abu Hanifah
+Mandatory (Fard)
+Necessary (Wajib)
+
+Recommended (mandoob)
+
+Preferable (mustahab)
+
+Preferable (mustahab)
+
+Permissible (mubah)
+
+Permissible (mubah)
+
+Permissible (mubah)
+
+Unlawful (mahzoor)
+
+Forbidden (haram)
+
+Indirectly forbidden (Makrooh
+Tahreem)
+Forbidden (haram)
+
+Disliked or Destested (makrooh)
+
+Disliked (makrooh)
+
+Disliked leading to sin (makrooh
+Tanzeeh)
+
+Valid ( ‫)ال حي‬
+Invalid ( ‫)الباط‬
+
+Figure 3: Parallels between types of Fiqh Rulings
+Mandoob and Mustahab carry same meanings (Sheikh Muhammad Nuruddeen Lemu, 2013).
+Similarly, Mahzoor and Haram are also used interchangeably.
+We see that in Hanafi fiqh, rulings related to ‗mandatory or obligatory‘ have been
+subdivided into ‗Fardh‘ and ‗wajib‘. Similarly we see that they have two different types of
+Makrooh - Makrooh Tahrimi and Makrooh Tanzihi.
+In case of types of revelatory rulings mentioned by Imam Al-Juvaini in Al-Waraqat, two
+addition entities are found: Valid (sahih) and Invalid (batil).
+Sahih and Batil (or butlaan) i.e. validity and invalidity: The meaning of Sahih (validity) is that
+certain legislative consequences and effects follow on from it (e.g. reward etc.) and the
+www.australianislamiclibrary.org
+
+18
+
+Australian Islamic Library - 2015
+
+ Obligatory (‫)الواجب‬:
+An obligatory act is that whose performance is rewarded and whose nonperformance is punished16 .
+
+meaning of Batil (invalidity) is the absence of legislative consequences and effects
+following on from it.
+When a person performs actions requested in the Shariah, then depending on the presence
+or absence of various causes and conditions, those actions might be judged as being valid
+or invalid.
+It is the last two of the seven categories where Hukm al-wad‟ee determines the validity and
+invalidity of actions.
+For example, if a person doesn‘t do wudhu before Salah but offers Salah in a good manner,
+his prayer will not be valid as one of the essential hukm al-wad‟ee condition was not met.
+Same goes for the person who starts fasting for Ramadan when Ramadan has actually not
+begun.
+16 Al-Wajib, according to Hanbali, shafi‘i and Maliki school is known as ‗fardh‘. However,
+
+in Hanafi school, it is further sub-divided in two categories: The personal obligation (fardh
+ayn e.g. 5 obligatory prayers) and the communal obligation (fardh kifayah e.g. salat ul
+jinaza). Performance of fardh ayn acts is sought from every mukallaf (morally responsible),
+baaligh (mature) ‘aaqil (sane) person. (2006 ,‫)الفوزان‬
+Fardh Ayn and Fardh kifayah are known as Wajib Ayn and Wajib Kifaya in schools other
+than hanafi‘ites.
+Sheikh Yahya Ibrahim explains this further:
+If there is a communal need, such as Dawah, then there must be a person or a group of
+persons fulfilling this religious requirement. Unless this group exists, the whole Ummah
+in that part of the world is liable and responsible on the Day of Judgment. This
+requirement also goes outside of religious requirements—for example if the community
+needs a doctor, they are required to train someone from their community in that
+profession in order to take care of the community.
+There are three aspects related to the Wajib in daily life:
+i. There are aspects of life where you, as an individual, have the choice as to WHEN
+you perform certain act. For example, marriage is an act that is an obligation upon
+www.australianislamiclibrary.org
+
+19
+
+Australian Islamic Library - 2015
+
+ Recommended (‫)المندوب‬:
+A recommended act is that whose performance is rewarded and whose nonperformance is not punished.17
+
+every individual—there is no ―monkship‖ or ―nun ship‖ or ―priesthood‖ in Islam,
+which means that, marriage is a wajib. However, as to when it is performed, it is your
+choice.
+ii. There are other wajib acts in which one does not have the choice as to when he or
+she performs it. For example, Ramadan, or Hajj or the time periods of salat. These
+wajib acts are only permissible within a certain time period.
+iii. Another category of individual wajibat is a written command. An example would
+be zakat—each mukallaf (on whom rulings are applicable) is responsible for this.
+17 Example of mandoob can be use of siwak.
+
+Sheikh Saleh Al-Munajjid (al-Munajjid, 2014a) explains about this and other related terms
+as follows:
+―Sunnah mu‟akkadah (confirmed Sunnah), naafil (supererogatory), voluntary and mandoob
+(recommended) all share a similar meaning; they are acts of worship that are enjoined
+and encouraged in Islam, without being obligatory. The one who does them will be
+rewarded but there is no sin on the one who does not do them‖.
+He also quotes from Al-Khateeb ash-Sharbeeni ash-Shaafa‗i R.A. from his book Haashiyat
+ad-Dasooqi (Chapter on offering naafil prayers): ―Naafil in linguistic terms refers to
+something extra; in Islamic terminology it refers to actions other than those which are
+obligatory. They are so called because they are extra to what Allah, may He be exalted,
+has made obligatory. Naafil is similar to Sunnah, mandoob (recommended), mustahabb
+(encouraged) and so on. This is the well-known view‖.
+Following explanation from Sheikh Yahya Ibrahim can be of particular usefulness:
+Mustahabb (also called Masnoon or Mandoob):
+In essence, Mustahabb refers to all of the Sunnah acts in the study of Fiqh. It can also be
+simply defined as the opposite of Makrooh.
+While the Sunnah acts are one degree less than wajib, they are considered actions of ibadah
+that are requested of an individual. In the case of as-sunnan, the request is from Allah,
+but is not considered an obligation; meaning that while one can attain great rewards by
+www.australianislamiclibrary.org
+
+20
+
+Australian Islamic Library - 2015
+
+its performance, there is no punishment for the one who leaves it off occasionally;
+although it should not become a regular habit to leave off the sunnah in its entirety.
+Examples of Mustahabb Actions:
+It includes all of the secondary acts of worship performed, on a regular basis, by the
+Prophet ‫ﷺ‬. A strong example would be what is termed ―Sunnah mu‟akkadah,‖ or ―the
+established sunnah‖ of the Prophet ‫ﷺ‬.
+One of these established acts are the extra ―sunnah salat‖ performed by the Prophet ‫ﷺ‬
+before and after each of the five main salat. These are the Sunnah mu‟akkadah prayers he
+‫ ﷺ‬would perform always, as long as he ‫ﷺ‬was not traveling.
+If the sunnah acts, such as Sunnah mu‟akkadah, are not a requirement, then why perform them?
+-
+
+Firstly, to increase one‘s Imaan
+
+-
+
+Secondly, to gain more reward.
+The Prophet ‫ ﷺ‬related to us that Allah would build a house in heaven for the one
+who performs all the Sunnah mu‟akkadah prayers along with the obligatory prayers.
+Also, in another hadith it is stated that the hell fire would not touch the person who
+had performed all the Sunnah mu‟akkadah prayers.
+
+-
+
+Thirdly, performance of these sunnah prayers makes up for the deficiencies in your
+obligatory salat. For example, if there was not enough khooshoo‘ in your compulsory
+salat then what you gained in your sunnah salat replaces what you lost in the
+obligatory salat.
+
+-
+
+Lastly, and most importantly, mustahabb actions serve as protection for the wajibat
+actions. For example, if a person wakes up early and prays the 2 rakat sunnah for
+Fajr—would that person return to sleep before praying the 2 rakat Wajib? Of course
+not! Similarly, if a person came to the masjid for Dhuhr, would he pray the four rakat
+Sunnah, stop to watch the people pray the 4 rakat Dhuhr and then perform his 2 rakat
+Sunnah afterward? Of course not!
+So these Mustahabb acts serve as protection for the worships themselves. Another
+example of this would be fasting on Mondays and Thursdays as the Prophet ‫ﷺ‬
+taught us. Why? To protect the fasting during Ramadan—training for a person before
+the actual month comes. Sadaqa protects what? Zakat! Umrah is a protection of what?
+Hajj!
+
+This is the first level of Mustahabb.
+The second level of Mustahabb is actions that fall into what is deemed ―Sunnah Ghayr
+mu‟akkadah,‖ i.e. actions that are not requested or even established. For example praying
+www.australianislamiclibrary.org
+
+21
+
+Australian Islamic Library - 2015
+
+ Permissible (‫)المباح‬:
+A permissible act is that whose performance is not rewarded and whose nonperformance is not punished.18
+
+four rakat before Asr or Isha, or even the naafil acts of worship, as is in the case that
+between the azan and the iqaama there is room for naafil salat. These are not regularly
+established salat by the Prophet ‫ﷺ‬.
+The third level of Mustahabb includes following the actions of the Prophet ‫ ﷺ‬that were
+of his ‫ ﷺ‬own choice. These are actions done by the Prophet that were not
+recommended but because the Prophet did them they would be seen as virtuous if
+someone followed his example in them to seek nearness to him in all conduct. This
+includes things like growing out the hair to past the ears for a man or wearing a turban
+and so on.
+18 In case of Mubah, both its doing or leaving are equivalent.
+
+Following is further explanation from Sheikh Yahya Adel Ibrahim:
+Mubah has been described as:
+- Halal – Lawful
+- Al-Hil – allowed
+- Mutlaq - unconfined/unrestricted
+- Jaa‟iz - Permissible
+In The Quran Allah uses some of those descriptions such as:
+―Lawful to you is the pursuit of water-game and its use for food, for the benefit of
+yourselves and those who travel.‖ [Surah al –Maidah, 5:96]
+Difference between Halal vs. Mubah:
+Halal are for the items in the Quran and Sunnah that Allah has mentioned in the book. So
+they are clearly known and distinct from the Haram or Makrooh.
+Mubah on the other hand are for the things which Allah SWT did not specifically mention.
+They are not specifically and directly mentioned in the Quran or Sunnah.
+Therefore Mubah is a determination made by the scholars.
+
+www.australianislamiclibrary.org
+
+22
+
+Australian Islamic Library - 2015
+
+Figure: 3 ways to identifying Mubah
+
+Difference between matters of religion and other matters:
+
+Figure: Permissibility and Impermissibility of Acts
+www.australianislamiclibrary.org
+
+23
+
+Australian Islamic Library - 2015
+
+ Unlawful (‫)المحظور‬:
+An unlawful act is that whose non-performance is rewarded and whose
+performance is punished.19
+
+Mubah can earn you reward or punishment DEPENDING ON YOUR INTENTION AND
+USAGE:
+Depending on an individual‘s intention, a Mubah can become Wajib, Mustahabb, Makrooh
+or Haram.
+Examples of Mubah becoming:
+- Mustahabb: Eating food to gain strength for Ibadah.
+- Mustahabb: Studying to attain a Profession that is Halal in order to have no need for
+Haram money.
+- Wajib: If the Wajib is not completed unless this Mubah is performed (e.g. find a clean
+place to pray rather than delay the prayer)
+- Haram: If the Haram will be arrived at by way of this Mubah action (e.g. Selling grapes
+to a winemaker or wasting food when those who are in need of it are near enough to
+provide it to them)
+19 Following explanation from Sheikh Yahya Adel Ibrahim explains key aspects related to
+
+‗Mahzoor‘ or ‗Haram‘:
+What is Haram?
+Haram is what Allah orders us to abstain from or leave. Hence, by its very definition
+participating in anything Haram entails a promise of a Divinely ordained punishment as
+outlined in the Quran and/or through the words and actions of the Prophet ‫ ﷺ‬as an
+instruction from Allah through the Messenger. Equally, if it is left off then a person is
+rewarded, as Allah wills.
+Prohibition (Nahy) is the opposite of command. It is a demand to avoid doing something
+which the Legislator – ALLAH, forbids.
+
+www.australianislamiclibrary.org
+
+24
+
+Australian Islamic Library - 2015
+
+Figure: Categories of Haram
+Following is an explanation of the two categories of Haram:
+-
+
+The first level of haram is termed ―Haram Li Dhatih,‖ and is known to always be
+haram on its own. Meaning it cannot be made halal in any way. For example,
+drinking alcohol or eating swine, murder, fornication—any of the major and
+minor sins.
+Haram li-dhatih which is forbidden for its own sake due to an inherit quality
+that is destructive to the individual or social fabric of society.
+This type of haram can become halal when it becomes a necessity. If, for
+example, someone is stranded on an island where swine is the only food
+available and/ or if it is a matter of life or death, then it becomes permissible
+for a person to consume the swine flesh.
+
+-
+
+The second level of haram is termed as ―Haram Li ghayrih‖ and this is when an
+action that is normally halal becomes haram because of certain conditions.
+Haram li Ghayrih (which is forbidden for an external reason such as, marrying a
+woman only to make her legal for another man (tahlil).
+Therefore it is halal action (Marriage) that was made haram by something else
+(intending it so that divorce will occur soon after and the former husband can
+marry her again). As such, how one leads up to an action and the intent behind
+it will decide whether or not it is accepted.
+
+Process of identifying what is „haram‟?
+www.australianislamiclibrary.org
+
+25
+
+Australian Islamic Library - 2015
+
+Haram (also known as Mahzoor) is an unequivocal order from Allah the lawgiver to
+abandon something completely or during under specific conditions or circumstances.
+The level of proof required to establish the prohibition is the same as the level required
+for a Fardh (as explained by early Hanafi Ulema) and of Wajib (as explained by the
+majority Ulema of Usul).
+The textual evidence for Haram may occur in various forms such as :
+i.
+
+ii.
+
+iii.
+
+iv.
+
+v.
+
+It may start with "Hurrimat alaykum" (e.g. ―Prohibited to you are dead animals,
+blood, the flesh of swine, and that which has been dedicated to other than Allah , and
+[those animals] killed by strangling or by a violent blow or by a head-long fall or by
+the goring of horns, and those from which a wild animal has eaten, except what you
+[are able to] slaughter [before its death], and those which are sacrificed on stone altars,
+and [prohibited is] that you seek decision through divining arrows. That is grave
+disobedience..." [Quran - 5:3].
+It may be conveyed in negative terms such as "la taqtulu" - do not kill, "la takulu‖ - do
+not eat or take. (e.g. ―And do not consume one another's wealth unjustly or send it [in
+bribery] to the rulers in order that [they might aid] you [to] consume a portion of the
+wealth of the people in sin, while you know [it is unlawful]‖ [2:188])
+It may be in the form of a command to avoid (e.g. ―"O you who have believed, indeed,
+intoxicants, gambling, [sacrificing on] stone alters [to other than Allah], and divining
+arrows are but defilement from the work of Satan, so avoid it that you may be
+successful." (Quran - 5:90, to avoid wine-drinking and gambling).
+It may be stated that it is not permissible (La yahilla lakum, Quran - 4:19)
+"O you who have believed, it is not lawful for you to inherit women by compulsion.
+And do not make difficulties for them in order to take [back] part of what you gave
+them unless they commit a clear immorality. And live with them in kindness. For if
+you dislike them - perhaps you dislike a thing and Allah makes therein much good."
+Prohibition may be proved by declaring a punishment for a particular action
+(Numerous examples in the Quran - Zina, theft, murder...)
+
+Nahy does not necessarily mean something is COMPLETELY FORBIDDIN and it has
+rather got three types:
+
+www.australianislamiclibrary.org
+
+26
+
+Australian Islamic Library - 2015
+
+ Disliked or Detested (‫)المكروه‬:
+A disliked act is that whose non-performance is rewarded and whose
+performance is not punished.20
+
+Figure: Categories of Prohibition
+
+Nevertheless, Nahy primarily implies Tahrim, if there is no other indication to think
+otherwise.
+Prohibition requires immediate and repeated compliance, whenever the prohibition is
+applicable. If the prohibition is conditional, it will be applicable where the condition is
+present only.
+20 Makrooh is the opposite of a recommendation (i.e. masnoon).
+
+Following explanation from Sheikh Yahya Adel Ibrahim clarifies it further:
+By definition of the jamhoor (Imams Malik, Shafi‘i and Hanbal) ‗Makrooh‘ are the aspects
+that Allah does not want you to do, but He does not command you to stay away from
+them. For example, Allah forbids us from eating and drinking with the left hand—this is
+an explicit command from the sunnah of the Prophet ‫ ﷺ‬therefore it is sinful and haram.
+
+www.australianislamiclibrary.org
+
+27
+
+Australian Islamic Library - 2015
+
+ Valid (‫)الصحيح‬
+A valid act is that which is affected and counts.
+ Invalid (‫)الباطل‬:
+An invalid act is that which is not affected and does not count.
+
+On the other hand, it is preferred for us to be sitting down while eating and drinking, but
+it is shown elsewhere that the Prophet ‫ ﷺ‬drank while standing. Therefore it is not best
+and should be avoided but it is not sinful.
+As far as consequences, there is no punishment for doing these actions, but if left off with
+the intention of pleasing Allah, then there is a reward. Thus, a person is allowed to stand
+while drinking water, but if he or she sits for the sake of pleasing Allah and following the
+sunnah of the Prophet ‫ ﷺ‬then there is a reward. As such, just like Mustahabb
+(recommended) protects the Wajibat (obligations), the Makrooh (disliked) serves to protect
+us from the Haram.
+Therefore Makrooh is:
+- A prohibition that is not binding, the opposite of Mustahabb.
+- Will get reward by staying away from it & you won‘t get punished if you do it.
+Makrooh is used by the scholars when there is a difference of opinion.
+Some scholars may claim a matter is haram while others may declare it permissible.
+Others would justly term it Makrooh instead of claiming that the issue was positively
+Haram.
+This is using the famous hadith of the Prophet ‫― ﷺ‬The Halal is clear and the Haram is
+clear, but between the two are issues which are confusing of which any of the people do
+not know (the answer to). Thus, whoever protects himself from these confusing issues has
+protected his Deen.‖
+Some have shown that Makrooh is when there is mention of a reward for not doing an
+action AND at the same time there is no mention of the punishment.
+Makrooh is also when there is a definite command of prohibition, which comes with an
+indication that it is not binding.
+
+www.australianislamiclibrary.org
+
+28
+
+Australian Islamic Library - 2015
+
+TYPES OF KNOWLEDGE:
+Fiqh is more specific than knowledge (‫)انفقه أخص ين انعهى‬21.
+Knowledge (‫ )انعهى‬is a perception of what is knowable.
+Ignorance is perception of something contrary to how it really is. 22
+
+21 According to Sheikh Nasir As-Saadi, fiqh is actually knowledge of the masaa„il (issues)
+
+and the dalaa„il (evidences). (2006 ,‫)الفوزان‬
+
+Figure: Fiqh according to Sheikh Nasir As-Saadi
+22 Sheikh Ibn Uthaymeen explain the concepts of knowledge, jahl, dhann and shakk as
+
+follows (al-Uthaymin, 2013, p. 17,18):
+The definition of knowledge is the perception of something for what it really is and being
+firmly aware of it, such as knowing that the whole is greater than the part, and that the
+intention is a requirement for worship (to be accepted).
+So what is excluded from our words: 'the perception of something', is the lack of the
+complete awareness of something, which is called jahl basit (plain ignorance), such as
+someone being asked: 'when was the Battle of Badr?' and he replies: 'I do not know.'
+And what is also excluded from our words what it really is' is to perceive something
+different from what it really is, this is called jahl al-murrakab (compounded ignorance),
+such as someone being asked: when was the Battle of Badr?' to which he replies: 'in the
+third year after migration.'
+[When in actuality it was during the second year after the migration].
+
+www.australianislamiclibrary.org
+
+29
+
+Australian Islamic Library - 2015
+
+‘Necessary knowledge’ (‫ )العلـم الضـروري‬is knowledge that does not require
+reflection (‫ )نظز‬or deduction (‫)استذالل‬, such as knowledge gained through one of
+the five senses (e.g. fire is hot). 23
+Acquired knowledge (‫ )العلـم المكتسـب‬is knowledge that requires ‗reflection‘ and
+‗deduction‘. 24
+
+And what is also excluded from our words 'firmly aware of it' is the perception of
+something in a non-assertive way, so it is likely to be different from the way it was
+perceived, then that is not called knowledge. Then if he prefers one over the other
+possibility then it is referred to as dhann and the other possibility as waham and if both are
+thought to be the same then it is called Shakk (doubt).
+Waham refers to: ―a perception of something with the possibility of it being against the
+most correct view‖.
+
+Figure: Types of Ignorance
+23 ―Necessary knowledge is innate (fitriyah), emanating directly from the very nature of
+
+human reasoning. One is born with it and does not acquire it from experience. Further, it
+is necessary knowledge because one cannot deny its outcome without falling to the realm
+of absurdity (sukhf)‖(Safi, 1996, p. 72). `Sukhf' means `feebleness of the rational faculty'.
+24 ‗Acquired knowledge‘ is also called ‗Nazari‟ knowledge as it is acquired through „nazar‟
+
+(reasoning and reflection). Imam Al-Juvaini defined ‗nazar‟ as ―the [process of] thinking
+through which is acquired whatever [knowledge] based on ilm (certain knowledge) or
+dhann (probable)‖.
+‗Acquired through reasoning‘, he argues, can be further sub-divided into two types:
+Correct (sahih) or incorrect (fasid). Correct knowledge is supported by evidence (daleel).
+Anything else is considered incorrect.
+www.australianislamiclibrary.org
+
+30
+
+Australian Islamic Library - 2015
+
+(Following this the further breakdown of terms used in above definitions)
+
+Reflection (‫ )نظر‬is to think about the object that needs reflection.25
+Deduction (‫ )استدالل‬is the seeking of proof. 26
+Proof (‫ )الدليل‬is what leads to that which is sought.
+(Reflection, Deduction and proofs lead us to perception about things 27. Imam Al-Juvaini throws some
+light on this in coming sentences)
+
+Al-Juvaini held that in order the evidence to produce correct knowledge, two criteria
+must be met:
+- The evidence must be substantively correct
+- The formal rules of derivation (sunan al-dalil) through which the evidence is acquired
+should be sound. (Safi, 1996, p. 72)
+25 i.e. using observation and thinking to analyse the object, situation or event that needs to
+
+be reflected upon
+26 The first 3 letters of the ‗Istidlal are :Alif, Seen, Ta.
+
+‫استدالل‬
+
+When these three letters appear in any word at the beginning of it, it means talab or need
+of what follows them in the word. In this case, it is the talab is of ‗proof‘.(Sheikh Yasir
+Fahmi Al-Azhari, 2013)
+27 Imam Al-Juvaini has divided perception in two branches: Confidence and doubt.
+
+However, doubt can be of various extents and can lead to possible further sub-division of
+perceptions as follows:
+-
+
+Certainty; (i.e. no presence of any doubt); also called Yaqeen
+
+-
+
+Confidence (i.e. not being 100% sure but fairly confident or having very little level of
+doubt); also called Dhann
+
+-
+
+Doubt – (i.e. if one weighs the evidences and weighs the possibilities, no overwhelming sign is found that one of them is stronger than the other); Also called Shakk
+
+-
+
+Suspicion – (i.e. perception that is extremely weak or something that is the opposite of
+yaqeen); Also called Wahm
+
+www.australianislamiclibrary.org
+
+31
+
+Australian Islamic Library - 2015
+
+Confidence (‫ )الظن‬is to deem each of two matters possible, with one
+predominant over the other.
+Doubt (‫ )الشـك‬is to deem two matters possible without the predominance of one
+over the other.
+SUBDIVISIONS (‫ )أبـواب‬OF THE DISCIPLINE:
+(After constructing the individual components of word Usul Al-Fiqh and related matters, now Imam
+Al-Juvaini explains the definition of Usul al-Fiqh)
+
+Usul Al-Fiqh deals with ‗general proofs‘ (‫ )اجًبل‬of Fiqh and methodology to
+adduce them as ‗proof‘ in evidentiary inquiry (‫)االستذالل‬.
+(‫)طزقه عهى سبيم اإلجًبل وكيفيت االستذالل بهب‬
+The roots of legal science (or ‗Usul al-Fiqh‘) fall under the following headings:
+(1)
+
+Types of speech,
+
+(2)
+
+Commands,
+
+(3)
+
+Prohibitions,
+
+(4)
+
+General wordings,
+
+(5)
+
+Specific wordings,
+
+(6)
+
+Ambiguous wordings,
+
+(7)
+
+Clarifying wordings,
+
+(8)
+
+Probabilistic indications,
+
+(9)
+
+Actions,
+
+(10)
+
+Abrogating texts,
+
+www.australianislamiclibrary.org
+
+32
+
+Australian Islamic Library - 2015
+
+(11)
+
+Abrogated texts,
+
+(12)
+
+Scholarly consensus,
+
+(13)
+
+Transmitted reports,
+
+(14)
+
+Analogy,
+
+(15)
+
+Unlawfulness and permissibility,
+
+(16)
+
+The proper proof-order,
+
+(17)
+
+The attributes of the mufti and the mustafti, and
+
+(18)
+
+Rulings related to mujtahids
+
+www.australianislamiclibrary.org
+
+33
+
+Australian Islamic Library - 2015
+
+Using Language in its Literal and
+Figurative Senses
+(Language is an extremely important factor in decoding rules and regulations. For the next few sections, Imam
+Al-Juvaini explains some important language aspects related to decoding of commands and rulings).
+
+TYPES OF SPEECH (‫)أقسام الكالم‬28:
+Speech (‫ )الكالم‬is minimally composed of:
+(1)
+
+Two nouns (‫)اسمان‬,
+
+(2)
+
+A noun (‫ )اسم‬and a verb (‫)فعل‬,
+
+(3)
+
+A verb (‫ )فعل‬and a particle (‫ )حرف‬29, or
+
+28 Ulema
+
+of Usul identified that understanding of Arabic language is one of the key
+components to understand usul and fiqh. Understanding how Arabic language works, its
+uniqueness, specifies, and usages form an important part understanding Islamic
+jurisprudence and in the absence of this knowledge, great mistakes can be made owing in
+inadequate and flawed understanding of Quran and sunnah.
+―This section (of the book) discusses the language of revelation, and introduces several
+concepts that may help to resolve legal problems. Applying the language of revelation to
+real life means knowing what things in the world are meant when a word is used in
+revelation. Al-Juvaini explains that words can refer to objects in the real world either
+directly or indirectly - literally or figuratively.‖ (Vishanoff, 2008)
+―Al-Juwayni's definitions of summarized and elaborated speech, and definite and
+apparent meaning, are just ways of saying that some speech is clearer than some other
+speech. Later he will say that clear speech trumps unclear speech.
+Al-Juwayni then says that the Prophet ‫'ﷺ‬s actions, and his tacit approval of the actions
+of others, usually indicate that those actions are obligatory, or at least
+permissible.‖(Vishanoff, 2008)
+
+www.australianislamiclibrary.org
+
+34
+
+Australian Islamic Library - 2015
+
+(4)
+
+A noun (‫ )اسم‬and a particle (‫)حرف‬.
+
+Speech is classified into30:
+(1) Commands (‫)أيز‬31 and prohibitions (‫)نهي‬32,
+(2)
+
+Declarative statements (‫)خبز‬33, and
+
+(3)
+
+Questions34 (‫)استخببر‬
+
+29 Ulema have differences of opinion on third and fourth point and it is not considered by
+
+many as meaningful speech.
+30 Imam Al-Juvaini classifies speech into 6 classes mentioned below in order to simply
+
+things for learners who have just started their study of usul. Other scholars have divided
+it in two main categories with each of them having further sub-categories.
+Following is a broad overview explained by Sheikh Muhammad Ibn Salih Al Uthaymeen:
+―Speech is divided with regards to its potential of being truthful or not into two parts:
+- al-khabr (news) and
+- insha (that which is established)‖.
+He further explains al-Khabr as:
+―That which can be described as truthful or untruthful in and of itself.
+What is excluded from our statement (i.e. 'that which can be described as truthful or
+untruthful') is: 'al-insha' because it isn't possible, its significance is not informed of until it
+can be said it is a truth or a lie‖.
+(al-Uthaymin, 2013)
+31 Example of Amr (Command): ―Establish worship, pay the poor-due, and bow your
+
+heads with those who bow [in worship]‖ (Quran 2:43)
+32 Example of Nahi (Prohibition): ―Eat not (O believers) of that meat on which Allah‘s
+
+Name has not been pronounced (at the time of slaughtering) for sure it is disobedience of
+Allah (a sinful conduct)…‖ (Quran 6:121)
+33 Example of Khabar (Declarative Statement / News): If you avoid the major sins which you are
+
+forbidden, We will remove from you your lesser sins and admit you to a noble entrance [into
+Paradise] (Quran 4:31)
+
+www.australianislamiclibrary.org
+
+35
+
+Australian Islamic Library - 2015
+
+(4)
+
+Wishes (‫)تًن‬35,
+
+(5)
+
+Suggestions (‫)عزض‬36 and
+
+(6)
+
+Oaths37
+
+From another perspective, it is classified into:
+(1) Literal (‫ )حقيقت‬and
+(2) Figurative (‫)يجبس‬
+Literal means it is used in the sense for which it was coined, or according to
+some, that it is used according to convention38.
+
+34 Example of Istikhbar (Question): ―O mankind, what has deceived you concerning your
+
+Lord, the Generous?‖ (Quran 82:6)
+35 Example of Taman (Wish): ―I was not with the Messenger of Allah (‫ )ﷺ‬but I wish I
+
+were with him‖ (Sahih Bukhari Book 4, Number 172)
+36 Example of Ardh (Suggestion): Umar R.A. saw a silk suit being sold, so he said, "O
+
+Allah's Messenger (‫ !)ﷺ‬Why don't you buy it so that you may wear it when delegates
+come to you, and also on Fridays?" The Prophet (‫ )ﷺ‬said, "This is worn only by him
+who has no share in the Hereafter." (Sahih Bukhari, Book 77, No. 58)
+37 ―Imam Zarkashī (d. 1392 CE) defines an oath as jumlatun yu'akkadu biha'l-khabaru (a
+
+sentence that confirms a statement through emphasis). Imam Suyūtī (d: 1505 AD.)
+describes it in similar terms: al-qasdu bi'l-qasami tahaqiqu'l-khabari wa tawkiduhu (The
+purpose of an oath is to confirm a statement and place emphasis upon it). In other words,
+the muqsam bihi (object of oath) serves to emphasise the point made in the muqsam `alayh
+(complement of oath)‖ (Mir, 1990). Some examples of oath from Quran include: Wa‟d
+duha, Wa‟l layli Idha Saja, Wa‟s samai wa‟t tariq etc.
+Imam Al-Juvaini described literal or Haqeeqah as words and meanings that are used in
+the sense that they are coined for e.g. a lion would mean a lion etc. He also includes
+customs of society in the definition of Haqeeqah.
+38
+
+www.australianislamiclibrary.org
+
+36
+
+Australian Islamic Library - 2015
+
+On the other hand, something is figurative when it is extended beyond its
+original coinage. 39
+
+39 Shaikh ul-Islam Ibn Qudaamah
+
+stated majaaz as,
+―It is the expression used in other than its‘ original meaning in a sound manner or
+way‖(1993 ,‫عبد هللا به أحمد به محمد به قدامة المقدسي‬, p. 272).
+For example, when someone mentions about a lion in the jungle, we take it literally. But
+when someone says that so and so fought like a lion, it does not mean that the person
+being mentioned literally became a lion and fought like that. It is a figurative speech
+(Sheikh Abu ‘Ubadah Harith Al-Shiraida, 2014).
+Some scholars, including Ibn Taymiyyah R.A., have argued that there is no figurative
+speech in Quran. The main reason behind this is the case of those who have fallen in error
+while interpreting Quran and Sunnah in a majaz manner such as mu‘tazila and those who
+interpret verses in multiple ways depending on their likening.
+However, other scholars disagree and present certain dalail in line with their opinion on
+this. This include Ibn Kathir, Ibn Qudamah, Imam Bukhari, Imam Tabri and others. Many
+researchers have found miraculous nature of such speech and praised the eloquence it
+carries (A. Ali, Brakhw, Nordin, & Shaik, 2012; Al-Shemmery, 2010; Berrada, 2006;
+Cahyaningsih, 2014; Mohaghegh & Dabaghi, 2013).
+In answer to a question, Shaykh Gibril Fouad Haddad pointed out a few verses of Quran
+as using figurative language (e.g. ―Help God, He will help you‖ [47:7], ―…those who
+wage war against God‖ [9:107] etc.). He mentioned that ―It is definitely called majaaz, i.e.
+figurative or metaphorical..‖ and also pointed out to other texts confirming this opinion.
+(Shaykh Gibril Fouad Haddad, 2013)
+―Figurative language (i.e.) connotation meaning refers to words or groups of words that
+exaggerate or alter the usual meanings of the component words. It may involve analogy
+to similar concepts or other context, and may exaggerate. These alterations result in a
+figure of speech‖ (Al-Shemmery, 2010).
+Following examples may clarify it further:
+-
+
+Verse 24 of Surah Al-Isra mentions: ―And spread out the wing of humility towards
+them‖ in relation to parents. Imaam Najm ud-Din at-Tufi said of this ayah in Sharh ulMukhtasar Rawdah that, ‗The wing is a reality for the bird and things having bodies.
+But the meanings and inorganic bodies cannot be described with that. This ayah is one
+www.australianislamiclibrary.org
+
+37
+
+Australian Islamic Library - 2015
+
+A literal use is either40:
+
+of the examples of figurative speech (Sheikh Abu ‘Ubadah Harith Al-Shiraida, 2014;
+1993 ,‫عبد هللا به أحمد به محمد به قدامة المقدسي‬, p. 272).
+-
+
+The Prophet ‫ ﷺ‬said, ―No (bartering of) two sa‘s for one sa nor two dirhams for one
+dirham is permissible‖ (Sahih Bukhari).
+The haqeeqi meaning of the word sa as mentioned in the above hadith, is a term for a
+‗measuring bowl‘ used during the time of the Prophet ‫ﷺ‬. However, the majaz
+meaning of the word sa is a reference for that which is contained within the literal
+measuring bowl (sa), be it wheat, dates, barley etc. Here, the majaz meaning is
+understood, and therefore one will not be able to exchange dates for dates unless it is
+of the same amount – otherwise it will be classed as riba. One will however, be able to
+exchange the literal sa (measuring bowl) for more than one sas – and this will be
+classed as profit.
+Because the majaz meaning has been understood in this case, the haqeeqi meaning
+will be dropped altogether.
+
+Imam Al-Juvaini also provides further examples of figurative speech by explaining its
+different types.
+40 Imam Al-Juvaini divided literal meaning in three categories.
+
+Sheikh Nasir As-Saadi explains these three categories with following explanation:
+
+Figure: Types of Al-Haqaa’iq
+www.australianislamiclibrary.org
+
+38
+
+Australian Islamic Library - 2015
+
+(1)
+
+Lexical or Linguistic
+
+(2)
+
+Revelatory, or
+
+(3)
+
+Customary.
+
+An example of literal meaning falling under the sub-category of shar‘iyyah would be
+‗salah‘ which literally means ‗prayer‘ or ‗dua‘ but its well-known meaning is the prayer
+that we fulfil as our obligation in a certain matter [Fajr, Dhuhr, Asar, Maghrib and Isha]
+(Sheikh Abu ‘Ubadah Harith Al-Shiraida, 2014; Sheikh Yasir Fahmi Al-Azhari, 2013).
+Lughawiyyah means that the intended meaning are in consistency with dictionary
+meanings.
+Urfiyyah is what is considered as correct meaning according to a particular society. For
+example, when we go to a computer shop and ask for a mouse, we intend to get the
+device that we can attach to our computer. That is the urf (customary meaning). Here we
+do not intend to get a rodent. This according falls under the meaning of Haqeeqah
+(Sheikh Abu ‘Ubadah Harith Al-Shiraida, 2014).
+So when a word is used for its original usage it is literal and when it goes beyond its
+original usage, it is figurative.
+Sheikh Nasir As-Sadi explains about the interpretation of meaning of literal and
+figurative speech as follows:
+―The asl (principle) governing kalaam (speech) is that it is to be taken upon its haqeeqah
+(reality or literal meanings). So it is not turned away from (its reality) to its majaaz
+(figurative meaning) except when it not possible to employ it upon its haqeeqah (reality)‖.
+So whatever ruling the Shaari' (Lawgiver) has judged with and defined, then it is
+obligatory to return it to the Shariah definition.
+However, what the Lawgiver has ruled, but not defined, sufficing by the apparentness of
+its linguistic meaning, then it is obligatory to return it to its linguistic meaning.
+But whatever has not been defined in the Shariah or in the language; then it is obligatory
+to refer it back to the habit of the people and their customary usage (understanding).
+The Lawgiver may clearly specify to return these matters to 'urf (customary usage); such
+as (what counts as) commanding the good, living well with one's wife, and other similar
+matters.
+
+www.australianislamiclibrary.org
+
+39
+
+Australian Islamic Library - 2015
+
+A figurative use is either:
+(1)
+
+Figurative by addition (i.e. based on the surplus)
+
+(2)
+
+Figurative by subtraction (i.e. based on deficiency)
+
+(3)
+
+Figurative by lexical shift (i.e. based on transference)
+
+(4)
+
+Figurative by metaphor (i.e. borrowing meaning)
+
+- Figurative by addition is like His Most High‘s saying, ‗laysa ka mithlihi
+shay‟ (‫…― – )لــيس كمثلــه شــيء‬there is nothing whatever like unto Him‖41
+- Figurative by subtraction is like His Most High‘s saying, ‗was‟alill-qaryata‟
+(‫ )وســئل القريــة‬- ―Ask the town.‖42
+- Figurative by lexical shift is like al-gha‟it with respect to human excrement
+(‫ )بالنقـل كالغـائط فيمـا يخـرج مـن اإلنسـان‬- ‗hollow‘ being used for what comes out
+of a person43
+- Figurative by metaphor is like His Most High‘s saying, Jidaran yuridu
+anyanqadda (‫ )جــدارا يريد أن ينقض‬- ―a wall that wants to collapse.‖44
+
+41 In the statement,
+
+‫لــيس كمثلــه شــيء‬, the ‫ ك‬is additional and is used for over-emphasis
+
+that there is ABSOLUTELY nothing like Allah. It is considered figurative by addition.
+(Sheikh Yasir Fahmi Al-Azhari, 2013)
+42 ―Qarya‖ or village is a physical location and it cannot be asked a question. If we have to
+
+ask people of a town, we use the words was‟al ahlul Qarya. But by removing the word “ahl”,
+the speech is made in a figurative style which still conveys the intended meaning to the
+listeners.
+43 Al-ghait linguistically means a small depressed area curved inside the ground. People
+
+used to go there to relieve themselves. Rather than using the blunt words like urinations etc.,
+they used to call these bodily needs ―al-ghait‖ referring to all the excrements from the body.
+This is called majaz bin naqal or majaz by lexical shift.
+
+www.australianislamiclibrary.org
+
+40
+
+Australian Islamic Library - 2015
+
+44 ―A wall that wants to fall‖ is a metaphorical use which is used for describing the wall
+
+as if a person is described. It is used to highlight and emphasis the condition of wall which
+could fall any moment.
+www.australianislamiclibrary.org
+
+41
+
+Australian Islamic Library - 2015
+
+COMMANDS AND PROHIBITIONS
+COMMANDS (‫)األمــــر‬
+A command is a verbal demand obliging an inferior (someone who is below) to
+perform an act. The verbal form that indicates command is if„al [‫ افعم‬- the
+imperative].45
+When unqualified, and in the absence of contextual indications [to the
+contrary], it is interpreted as obligation, except when some evidence indicates
+that recommendation (‫ )اننذة‬or permission (‫ )اإلببحت‬is meant, in which case it is
+interpreted accordingly46.
+The correct view is that command does not require the repetition of the act47,
+unless some evidence indicates that repetition was intended; nor does it require
+immediate action48.
+
+linguistically means ―do (a command)‖. This pattern of words is used for
+commands e.g. ‫( اضرب‬a command to ‗hit‘), ‫( اجلس‬a command to 'sit‘) etc.
+45 ‫افعل‬
+
+Sheikh Nasir As-Saadi mentions: ―The asl (fundamental principle) concerning
+commands in the Book and the Sunnah is that they are indicative of a wujoob (obligation)
+unless there is an evidence to indicate it being mustahabb (recommended) or mubah
+(permissible). The foundation concerning prohibitions is that they are indicative of
+tahreem (forbiddance) unless there is an evidence to indicate it being makrooh
+(hated)‖(Sheikh Nasir As-Saadi, 2014).
+46
+
+47 For example, if someone is asked to sit, it means that expectation from him is to sit
+
+once. Once that person sits, he has done what he was required to do. This is the majority
+www.australianislamiclibrary.org
+
+42
+
+Australian Islamic Library - 2015
+
+The command to bring about an action is a command to perform both the act
+and whatever is required for the completion of the act, just as the command to
+perform the prayers is a command enjoining the purity that paves the way for
+them49. When the commanded act is performed, the one who is commanded is
+considered to have discharged his responsibility.
+
+opinion (Sheikh Yasir Fahmi Al-Azhari, 2013). However, some scholars believe that that
+when a command is given, it may mean repetition or performance over a period of time.
+An example in Shariah terms can be hajj which is not required to be repeated again and
+again as it is not mentioned in Quran and Sunnah as an act requiring repetition.
+Following hadith explains it further when Prophet Muhammad ‫ﷺ‬commanded people
+to do hajj and by this command, he did not intend repetition:
+―It was narrated that Abu Hurayrah said: The Messenger of Allah ‫ ﷺ‬addressed us and
+said: ―O people, Allah has enjoined Hajj on you, so perform Hajj.‖ A man said: ―Is it
+every year, O Messenger of Allah ‫ ‖?ﷺ‬He remained silent until (the man) said it three
+times. Then the Messenger of Allah ‫ ﷺ‬said: ―If I said yes it would be obligatory and
+you would not be able to do it‖ (Sahih Muslim, 1337).
+On the other hand, clear daleel is available for some other matters and acts requiring
+repetition. For example, ‗Aqeemus salah‘ (establish the prayer). By this ayah and the
+opinion that a command in itself does not demand repetition, offering a salah once would
+suffice. But we know that it is not correct as other qatai‟i daleels (definitive proofs) are
+available to tell us that repetition in certain pattern is required.
+48 Imam Juvaini‘s opinion is that a command does not require immediacy. Sheikh Yasir
+
+Fehmi explains that it is the majority opinion (Sheikh Yasir Fahmi Al-Azhari, 2013) but
+there are some scholars who consider it necessary to be acted upon immediately as soon
+as a person becomes mukallaf.
+49 Sheikh Nasir as-Sadee presents this as a Qaidah (principle) in his book: Al-Qawaa'id
+
+wal-Usul al-Jaami'ah wal-Furooq wat -Taqaaseem al-Badee'ah an-Naafi'ah: ―The means
+take on the same rulings as their aims‖. Sheikh Saleh as-Saleh explain it as follows:
+What branches from this foundation is the following:
+i. Whatever is required to fulfil an obligation is itself an obligation.
+www.australianislamiclibrary.org
+
+43
+
+Australian Islamic Library - 2015
+
+THOSE WHO ARE INCLUDED IN THE AUDIENCE OF COMMANDS
+AND PROHIBITIONS AND THOSE WHO ARE NOT
+Believers are included in those who Allah, The Most High addresses, but those
+who forget (‫ )الســاهي‬50 , children (‫)الصــبي‬, and the possessed (‫ )المجنــون‬are not
+included51.
+Disbelievers are addressed both by the details of sacred law and by what they
+are not valid without (i.e., Islam) 52, because of His Most High‘s saying, ( ‫قالوا لم نك‬
+‫ )من المصلين‬- They responded, ‗We were not of those who prayed.‘
+
+ii.
+iii.
+iv.
+v.
+
+Whatever is required to fulfil a recommendation is itself recommended
+Whatever leads to the establishment of a haram (prohibition) is itself prohibited.
+Whatever leads to the establishment of a makrooh (detested act) is itself detested.
+Whatever follows-on from acts of worship and actions takes the same rulings as they
+do (i.e. worship and actions).
+(Sheikh Nasir As-Saadi & Sheikh Saleh As-Saleh, 2006)
+50 ―As-Sahi” has also got other meanings including: absentminded ; distracted ; forgetful ;
+
+inadvertent ; inattentive ; unaware and unmindful
+51 These people do not have any legal responsibilities or obligations as they do not have
+
+capability to perform responsibilities that others can fulfil
+Sheikh Salih Al-Fawzan presents following hadith while explaining these points from AlWaraqat in his sharh (1991 ,‫عبد اهللا به صال الفوزان‬, p. 49):
+‫الص ِبي َح َّتى َيحْ َتلِ َم‬
+ِ ‫ون ْال َم ْغلُو‬
+َّ ‫ب َعلَى َع ْقلِ ِه َح َّتى ُي ِفيقَ َو َع ِن ال َّنائ ِِم َح َّتى َيسْ َت ْيق َِظ َو َع ِن‬
+ِ ‫ُرف َِع ْال َقلَ ُم َعنْ َثالَ َث ٍة َع ِن ا ْل َم ْج ُن‬
+―There are three from whom pen has been lifted (i.e. whose actions are not recorded):
+from a lunatic whose mind is deranged till he is restored to consciousness, from a
+sleeping person till he awakes, and from the child till he reaches puberty‖ (Sunan Abi
+Dawud, 4401)
+52 Majority of scholars are of the opinion that non-believers are included in the specifics of
+
+the sacred law. For example, when the command comes ―establish the prayer‖, they are
+included in those that are addressed. That is why when they will be asked on the day of
+www.australianislamiclibrary.org
+
+44
+
+Australian Islamic Library - 2015
+
+A command to do something is a prohibition against its opposite; and a
+prohibition against something is a command to do its opposite.
+To prohibit (‫ )النهي‬means to verbally call someone who is below one to leave an
+action by way of obligation.
+It indicates the invalidity of what which is prohibited53.
+The command form is sometimes used with the intention of:
+- Permitting (‫ )اإلببحت‬54,
+- Threatening (‫ )انتهذيذ‬55,
+judgement regarding what took them to hell, they would say ―We did not pray‖.
+Similarly, it is mentioned the ‗mushrikoon‘ (polytheists) will be in wayl (a part of hell)
+because they do not pay ‗zakah‘ (obligatory charity). A point to note here is that in order
+to meet these specifics obligations, their pre-requisites and conditions are to be met. The
+pre-requisite in this case is becoming a Muslim in order for their prayer to be accepted
+(Sheikh Yasir Fahmi Al-Azhari, 2013).
+53 For example, if a woman who is undergoing menstruation prays, her prayer is invalid
+
+as offering prayer under such condition is prohibited.
+54 Commands do not necessarily mean obligations. They can be used to convey various
+
+meanings including permissibility of certain actions. For example, the order to get spread
+on earth to seek bounties of Allah after the Jumah prayer is not an obligation but
+permissibility. There is no sin if people do not go for business after the prayer.
+―When you finish the Salah, then disperse through the land and seek the bounty of Allah
+(go back to your normal business). Remember Allah frequently, so that you may prosper‖
+(Quran 62:10)
+55 Example of this can be the ayah:
+
+‖And they have attributed to Allah equals to mislead [people] from His way. Say, "Enjoy
+yourselves, for indeed, your destination is the Fire." (Quran 14:30).
+In this ayah, the word ‫( َت َم َّتعُوا‬enjoy) is not an obligation or permissibility but a threat or a
+strong warning.
+www.australianislamiclibrary.org
+
+45
+
+Australian Islamic Library - 2015
+
+- Equivalence i.e. giving alternatives (‫ )انتسىيت‬56, or
+- Existentiation i.e. creating (‫)انتكىين‬57, 58
+
+56 Example of this form of Amr can be seen in the ayah:
+
+‫فاصـبروا أو ال تصـبروا‬
+―So be patient or don‘t be patient‖
+(Quran 52:16)
+57 ‫ انتكىين‬is from the root ‫ كن‬which is used for creating. ‫كىنُىا‬
+ُ is also derived from the same
+
+root and is a command form. Allah SWT mentions in verse 65-66 of surah Al-Baqarah:
+َ‫بسئِين‬
+ِ َ‫ت فَقُ ْهنَب نَهُ ْى ُكونُوا قِ َز َدةً خ‬
+ِ ‫َونَقَ ْذ َعهِ ًْتُ ُى انَّ ِذينَ ا ْعتَذَوْ ا ِي ْن ُك ْى فِي ان َّس ْب‬
+َ‫فَ َج َع ْهنَبهَب نَ َك ًبال نِ ًَب بَ ْينَ يَ َذ ْيهَب َو َيب خَ ْهفَهَب َو َيىْ ِعظَتً نِ ْه ًُتَّقِين‬
+―And certainly you have known those among you who transgressed in (the matter of) the
+Sabbath. So, We said to them, "Become apes, living in disgrace!' Thus, We made it a
+deterrent for those around and after them - and a lesson for the God-fearing‖.
+58 Scholars have also defined some other types of Amr (commands) such as guiding,
+
+honouring, hoping etc.
+www.australianislamiclibrary.org
+
+46
+
+Australian Islamic Library - 2015
+
+General and Specific Utterances
+GENERAL AND SPECIFIC UTTERANCES AND THEIR TYPES59
+A general utterance is what encompasses two or more things without limit.60
+
+59 ‗Law‘ consists of statements such as "the act of this person's eating this food at this time
+
+under these circumstances is: disapproved." But revelation does not consist entirely of
+such statements; often it has the form of commands. How does one translate a command
+into a statement of this form? Imam Al-Juvaini gives some rules for that in this section.
+Some words in revelation and prophetic traditions refer to particular things in the real
+world, and other words refer "generally" to whole groups of things. What if one Quranic
+verse assigns the legal value "permitted" to a whole class of things "generally," but
+another verse or prophetic tradition assigns the legal value "proscribed" to a subset of that
+class of things? This is called "particularization" - the legal value assigned to the
+narrower subset trumps the legal value assigned to the larger class mentioned in the
+more general verse. This is the discussion in current section of book.
+60 General
+
+utterance or, 'Al-'Am', linguistically means ‗inclusive‘. And technically it
+means: an all-encompassing word that includes all its individual elements without
+restriction, such as:
+The righteous are in bliss' [82:13, 84:22].
+The ayah includes all the righteous in general.
+Sheikh Abdur Rahman Nasir As-Saadi explains (as-Sadee, 2001):
+―From the texts of the Book and the Sunnah are those which are al-am (general); which is
+defined as that word which is inclusive of many ajnaas (catagories), anwaa (types) and
+afraad (individuals). The majority of the texts are of this nature.
+Other texts are al-khass (specific), and are indicative of only some categories, types and
+individuals. Thus, if there does not exists any contradiction between the al-am and the
+khass texts, then each of them are independently acted upon. However, if a contradiction
+is presumed, then al-am is specified and delineated by the khas.‖
+(The process of specifying al-am to make it khas is called particularization).
+
+www.australianislamiclibrary.org
+
+47
+
+Australian Islamic Library - 2015
+
+It comes from one‘s saying, (‫„ )عًًــت سيــذا وعًــزا ببنعطـبء‬amamtu zaydan wa „amran
+bi‟l-„ata‟ and (‫„)عممــت جميـع النـاس‬amamtu jami‟ al-nas.
+There are four types of utterances that denote generality:
+(1)
+
+A singular noun made definite with the definite article al - by an alif
+
+and a lâm ( ‫ )االسى انىاحذ انًعزوف ببنالو‬61
+(2)
+
+A plural noun made with the definite article al (‫)واسى انجًع انًعزف ببنالو‬62
+
+(3)
+
+Ambiguous nouns or the nouns of indeterminacy (‫–)األســماء المبهمــة‬
+
+such as ‗who‘ for rational beings, ‗what‘ for non-rational things, ‗any‘ for
+both of these, ‗where‘ for place, ‗when‘ for time, ‗what‘ for inquiry and
+partition and other things
+(4)
+
+La (‫ ال‬meaning „no‟) with indefinite nouns.63
+
+Generality applies exclusively to utterances; generality may not be claimed
+with anything else, such as actions and the like.
+
+The hukm for al-am is that the action is carried out with a caution that those who are
+excluded will be immune, whilst it will remain wajib for those who remain within the
+‗general‘ (‗am) mass. (e.g. praying is mandatory on all Muslims in general, however,
+women during menstruation may be immune and may not be included in the ruling on
+al-am)
+61 E.g. Al-Insaan (mankind in general)
+62 E.g. Al-Samawat (Skies)
+63 Such as the saying: ‫ ال رجل في الدار‬giving non-specific information – no man is in the
+
+house.
+www.australianislamiclibrary.org
+
+48
+
+Australian Islamic Library - 2015
+
+Particular
+
+or
+
+specific
+
+[expressions]
+
+are
+
+those
+
+that
+
+are
+
+not
+
+general.
+
+Particularization (also called takhsees) is to distinguish part of a whole65.
+
+64
+
+64 Particular utterance or,
+
+al-Khas, means: a word which is restricted to a person or a
+certain number, such as names of well-known people; demonstrative nouns and
+numbers.
+The ruling on al-khass is that it is compulsory (wajib) to act on it unless there is another
+nass or daleel which proves that it is mandoob not wajib.
+One of the examples of al-khas from Quran is the case with time required for divorced
+women before they can marry again. This time period has been made al-khas by
+specifying the exact time frame (e.g. 3 quruo). As the number is specific, it must be acted
+upon (Abdul Aleem, 2015).
+(It is to be noted that some scholars consider Quruo as a period of cleanliness and others
+refer to it as a period of menstruation).
+The three common types of al-Khas are as follows (Abdul Aleem, 2015):
+
+www.australianislamiclibrary.org
+
+49
+
+Australian Islamic Library - 2015
+
+It is divided into:
+- Connected particularization
+- Disconnected particularization
+Connected particularization comprises:
+- Exception (Istisna)66,
+
+Figure: Types of Al-Khas
+65 Example of particularization: All students came EXCEPT Zaid (Whole was presented
+
+first i.e. all students and then particularization was made to separate Zaid). This means
+that Zaid is not anymore under the Hukm being discussed (e.g. ‗coming‘).
+66 As explained in previous foot note
+
+www.australianislamiclibrary.org
+
+50
+
+Australian Islamic Library - 2015
+
+- Condition (Al-Shart)67, and
+- Qualification by an attribute or the describer (Al-muqeedu Bis-sifah)68
+Particularization through Exception:
+Exception is the exclusion of that which an expression would otherwise
+include. Exception is only valid on condition that there remains something of
+that from which the exception was made. 69
+Particularization through Conditions:
+Another condition is that the exception be connected to the expression [from
+which exception is being made]70. That which is excepted can be mentioned
+before that from which it is excepted. Exception can be from a class, and from
+other things.
+
+67 Example of connected particularization by the way of condition can be understood
+
+from sentence: ―Be generous to Bani Tamim IF THEY COME TO YOU‖. Here
+particularization is made by the condition ―if they come to you‖.
+Example of particularization by an attribute is ―Be generous to Bani Tamim‘S
+FUQAHA‖ where quality of those from Bani Tamim that command is to be generous with
+is al-fuqaha
+68
+
+69 An example of that is the case, in general, where it has been forbidden to eat on which
+
+Allah‘s name has not been mentioned. However, the istisna to this is the time when a
+person is about to die if he or she doesn‘t take some of it.
+70 For example, if I say, ―I owe you to $10, except 2‖ (i.e. I owe you 8). In this sentence, for
+
+the exception to be considered valid, ―except 2‖ has to be part of this sentence. If it is
+separated, it becomes invalid.
+
+www.australianislamiclibrary.org
+
+51
+
+Australian Islamic Library - 2015
+
+A condition can precede that which is made conditional [upon it.]71
+Particularization through Qualification by an Attribute:
+The unqualified is interpreted in accordance with what is qualified by an
+attribute. For example, ‗slave‘ is qualified by faith in some passages, so
+unqualified [references to slaves] are interpreted in accordance with the
+qualified ones.72
+Generality and Exclusions in Shariah Sources:
+- A Quranic utterance may exclude from the generality of another
+Quranic utterance (‫) تخصيص انكتبة بانكتبة‬, 73
+-
+
+A sunnaic utterance may exclude from the generality of a Quranic
+utterance (‫) وتخصيص الكتاب بالسنة‬, 74
+
+71 For example, ―No one stood except Zaid‖. In this sentence, position of exception is
+
+shifted within the sentence, rather than being at the end. Meaning remains unchanged.
+73 As an example of this, let us consider following two ayahs:
+-
+
+―Divorced women remain in waiting for three quroo…‖ (Quran 1:228)
+―O You who have believed, when you marry believing women and then divorce them
+before you have touched them, then there is not for you any waiting period to count
+concerning them. So provide for them and give them a gracious release‖ (Quran 33:49)
+In this ayah we see the one Quranic verse has done the specification within another verse.
+In the first verse, hukm was regarding those believing women, in general, who get
+divorced. In the second ayah, takhsees was done for a particular situation.
+-
+
+74 Let us review an ayah and a hadith to clarify this:
+
+-
+
+-
+
+―… And lawful to you are [all others] beyond these, [provided] that you seek them [in
+marriage] with [gifts from] your property, desiring chastity, not unlawful sexual
+intercourse‖ (Quran 33:49)
+―One should not combine in marriage a woman with her father's sister, or her
+mother's sister‖ (Sahih Muslim, 1408)
+
+www.australianislamiclibrary.org
+
+52
+
+Australian Islamic Library - 2015
+
+-
+
+A Quranic utterance may exclude from the generality of a sunnaic
+utterance (‫ ) وتخصيص السنة بالكتاب‬, 75 and
+
+-
+
+A sunnaic utterance may exclude from the generality another sunnaic
+utterance ( ‫ ) تخصيص انسنت ببنسنت‬76.
+
+-
+
+Analogy may exclude from the generality a Quranic or Sunnaic
+utterance (‫) تخصيص النطق بالقياس‬77
+
+In this case, a hadith has specified the ayah by mentioning what is not included in the
+general permissibility of the ayah.
+75 Let us consider a hadith and an ayah to explain this:
+
+-
+
+"Allah does not accept prayer of anyone of you if he does passes wind till he performs
+the ablution (anew)‖ (Sahih Bukhari – 6954)
+―O you who have believed, when you rise to [perform] prayer, wash your faces and
+your forearms to the elbows and wipe over your heads and wash your feet to the
+ankles. And if you are in a state of janabah, then purify yourselves. But if you are ill or
+on a journey or one of you comes from the place of relieving himself or you have
+contacted women and do not find water, then seek clean earth and wipe over your
+faces and hands with it. Allah does not intend to make difficulty for you, but He
+intends to purify you and complete His favor upon you that you may be grateful‖
+(Quran 5:6)
+
+The ayah specifies the hadith by explaining the specific situation with regards to
+performing tayammum.
+76 Let us consider two ahadith to clarify this:
+
+-
+
+-
+
+"On land that is watered by rain or springs or any natural means there is (zakat to pay
+of) a tenth. On irrigated land there is (zakat of) a twentieth (to pay)." (Muwatta Imam
+Malik, Kitab uz Zakah)
+"No Zakat is due on property mounting to less than five Uqiyas (of silver), and no
+Zakat is due on less than five camels, and there is no Zakat on less than five Wasqs."
+[A Wasqs equals 180 Kg approximately] (Sahih Bukhari, 1405)
+
+We see through these two ahadith that generic case in first hadith has been made specific
+in the second hadith excluding those naturally watered lands which do not meet the
+minimum threshold criteria.
+
+www.australianislamiclibrary.org
+
+53
+
+Australian Islamic Library - 2015
+
+By utterance, we mean something that was said by Allah Most High or by the
+Messenger (Allah bless him and give him peace).
+
+77 Example of that is reduction in the prescribed punishment for adultery committed by
+
+slaves to half of what is prescribed for free unmarried men and women
+www.australianislamiclibrary.org
+
+54
+
+Australian Islamic Library - 2015
+
+CLEAR (Mubayyan) AND UNCLEAR
+(Mujmal) EXPRESSIONS
+An unclear (also called ‗summarized‘ or ‗obscure‘ speech) utterance (‫ )المجمـل‬is
+something that needs elaboration or explanation (‫)البيـان‬78 , 79. Explanation is to
+take something from the sphere of ambiguity (‫ )اإلشـكال‬into the sphere of clarity
+(‫ )التجلـي‬80.
+
+78 It is to be noted that ‗bayan‘ refers to ‗explanation‘ and what is explained is called
+
+‗mubayyan‘. From the same root word, ‗mubeen‘ means the one who explains.
+79 Sheikh Abdur Rahman bin Nasir Sad‘ee explains:
+
+―And from the texts are the mujmal (comprehensive) and mubayyan (explicit). Whatever
+the Lawgiver has made something comprehensive in one place, yet made it explicit in
+another, then it is obligatory to return to what the Lawgiver made mubayyan (explicit).
+Many of the rulings in the Quran are mujmal (comprehensive) in nature, but have been
+explicitly explained in the Sunnah. So it is obligatory to return to the bayan (explicit
+clarification) of the Messenger ‫ﷺ‬, since he is the clear explainer from Allah.‖
+80 Mujmal
+
+does not allow understanding of what is meant except by something else
+specifying it, clarifying its description or its amount (e.g. ―establishing the prayer‖).
+An example of what is understood to be from the word itself in its original form is the
+word sky, land, mountain, justice, injustice, sincerity; these words and the like are
+understood, and do not need something else to explain them.
+An example of what is understood after clarification is the saying of the Most High:
+'And establish the prayer and pay the Zakat' (2:43)
+
+www.australianislamiclibrary.org
+
+55
+
+Australian Islamic Library - 2015
+
+A definitive utterance (‫النص‬, ‗nass‟) is what can only have one meaning. Some
+say it is a speech whose interpretation is its revelation.
+The word nass is etymologically derived from the bride‘s minassa (‫)منصـة العـروس‬,
+i.e., her seat.
+A probabilistic utterance (or apparent speech) (‫الظاهر‬, ‗dhahir‟) is what accepts
+two meanings, one of which is likelier than the other. A probabilistic utterance
+may be figuratively interpreted when there is proof, and [its meaning is] then
+called apparent by virtue of evidence (‫)الظـاهر بالدليل‬.
+
+In above verse, the meaning of ‗establishing‘ and ‗giving‘ are both unclear. Both words
+become clear when we refer to specific utterance from the Sunnah or our beloved
+Messenger Muhammad ‫ﷺ‬.
+Similarly, the word riba‘ is an example of a mujmal term, even though it literally means
+an ‗increase‘. Although we know its literal meaning, we do not know what is meant by
+the context in which Allah SWT mentions it – until it was specified through hadith: a
+specific increase which is free from any substitute or reward in those transactions which
+are muqaddara (those items which are sold through measurement) and mutajaanisa
+(items which are the same). Therefore, you cannot sell ‗one date‘ for ‗two dates‘ – that will
+be riba. Without this explanation, the literal word riba‘ does not indicate towards this
+meaning, and therefore cannot be understood through pondering, until the lawmaker
+(Allah or the Prophet ‫ ﷺ‬on Allah‘s commands) explains it for us (Abdul Aleem, 2015,
+p. 44).
+Ruling regarding Acting on Mujmal (texts):
+The Mukallaf person must act upon the mujmal when the explanation is made clear to him.
+The Prophet ‫ ﷺ‬explained to his nation of followers all the legislation, its principals and
+subsidiary matters, so much so that he left the nation on a clear and pure white path, its
+night like that of its day, and he did not leave explaining something at the time of need at
+all.
+And the Prophet's ‫ ﷺ‬explanation was either delivered orally, or in deed, or by word
+and deed both.
+
+www.australianislamiclibrary.org
+
+56
+
+Australian Islamic Library - 2015
+
+THE LEGAL IMPLICATIONS OF PROPHETIC ACTIONS81
+
+81 Sheikh Salih Al-Munajjid explains the role of Sunnah as follows (al-Munajjid, 2014b):
+―We will present, with the help of Allaah, the principles and bases of the importance of
+the Sunnah, the obligation to follow it and the ruling concerning those who reject it. By so
+doing, we will also refute the doubters and the misguided group who call themselves
+―Quraniyyeen‖ (the Quran has nothing to do with them!) In sha Allaah this discussion
+will be of benefit to everyone who wants to understand the truth of the matter.
+Proof of the importance of the Sunnah
+(1) The Quran speaks of the importance of the Sunnah, for example:
+(a) Allaah says (interpretation of the meaning): ―He who obeys the Messenger has indeed
+obeyed Allaah . . .‖ [al-Nisaa‘ 4:80] Allaah described obedience to the Prophet (peace be
+upon him) as being a part of obedience to Him. Then He made a connection between
+obedience to Him and obedience to the Prophet (peace be upon him): ―O you who
+believe! Obey Allaah and obey the Messenger . . .‖ [al-Nisaa‘ 4:59]
+(b) Allaah warns us not to go against the Prophet (peace be upon him), and states that
+whoever disobeys him will be doomed to eternal Hell. Allaah says (interpretation of the
+meaning): ―. . . And let those who oppose the Messenger‘s commandment beware, lest
+some fitnah (trial, affliction, etc.) befall them or a painful torment be inflicted on them.‖
+[al-Nur 24:63]
+(c) Allaah has made obedience to His Prophet a religious duty; resisting or opposing it is
+a sign of hypocrisy: ―‖But no, by your Lord, they can have no Faith, until they make you
+[Muhammad] judge in all disputes between them, and find in themselves no resistance
+against your decisions, and accept (them) with full submission.‖ [al-Nisaa‘ 4:65]
+(d) Allaah commands His slaves to respond to Him and His Messenger: ―O you who
+believe! Answer Allaah (by obeying Him) and (His) Messenger when he calls you to that
+which will give you life . . .‖ [al-Anfaal 8:24]
+(e) Allaah also commands His slaves to refer all disputes to him: ―. . . (And) if you differ
+in anything amongst yourselves, refer it to Allaah and His Messenger . . .‖ [al-Nisaa‘ 4:59]
+(2) The Sunnah itself indicates the importance of the Sunnah. For example:
+
+www.australianislamiclibrary.org
+
+57
+
+Australian Islamic Library - 2015
+
+(a) Al-Tirmidhi reported from Abu Raafi‘ and others that the Prophet (peace be upon
+him) said: ―I do not want to see any one of you reclining on his couch and, when he hears
+of my instructions or prohibitions, saying ‗I don‘t accept it; we didn‘t find any such thing
+in the Book of Allaah.‘‖ Abu ‗Eesaa said: This is a saheeh hasan hadeeth. (See Sunan alTirmidhi, Shaakir edition, no. 2663).
+Al-‘Irbaad ibn Saariyah, may Allaah be pleased with him, reported that the Prophet
+(peace be upon him) said: ―Would any of you think, reclining on his couch, that Allaah
+would only describe what is forbidden in the Quran? I tell you, by Allaah, that I have
+warned and commanded and prohibited things that are as important as what is in the
+Quran, if not more so.‖ (Reported by Abu Dawud, Kitaab al-Khiraj wa‘l-imaarah wa‘lfay‘).
+(b) Abu Dawud also reported from al-‘Irbaad ibn Saariyah, may Allaah be pleased with
+him, that ―the Messenger of Allaah (peace be upon him) led us in prayer one day, then he
+turned to us and exhorted us strongly . . . (he said), ‗Pay attention to my sunnah (way)
+and the way of the Rightly-guided Khaleefahs after me, adhere to it and hold fast to it.‘‖
+(Saheeh Abi Dawud, Kitaab al-Sunnah).
+(3) The scholars‘ consensus (ijmaa‘) affirming the importance of the Sunnah.
+Al-Shaafi‘i, may Allaah have mercy on him, said: ―I do not know of anyone among the
+Sahaabah and Taabi‘een who narrated a report from the Messenger of Allaah (peace be
+upon him) without accepting it, adhering to it and affirming that this was sunnah. Those
+who came after the Taabi‘een, and those whom we met did likewise: they all accepted the
+reports and took them to be sunnah, praising those who followed them and criticizing
+those who went against them. Whoever deviated from this path would be regarded by us
+as having deviated from the way of the Companions of the Prophet (peace be upon him)
+and the scholars who followed them, and would be considered as one of the ignorant.
+(4) Common sense indicates the importance of the Sunnah.
+The fact that the Prophet (peace be upon him) is the Messenger of Allaah indicates that
+we must believe everything he said and obey every command he gave. It goes without
+saying that he has told us things and given instructions in addition to what is in the
+Quran. It is futile to make a distinction between the Sunnah and the Quran when it comes
+to adhering to it and responding to it. It is obligatory to believe in what he has told us,
+and to obey his instructions.
+The ruling concerning those who deny the importance of the Sunnah is that they are
+kaafirs, because they deny and reject a well-known and undeniable part of the religion‖.
+
+www.australianislamiclibrary.org
+
+58
+
+Australian Islamic Library - 2015
+
+A prophetic action is either performed out of worship and obedience or not82.
+If it is performed out of worship and obedience, then if a proof indicates that it
+is specific to him, it is understood accordingly; otherwise, it is not made specific
+to him because Allah Most High said, ―Verily in the messenger of Allah you
+have a good example.‖ (33:21)
+According to some of our scholars, it is then interpreted as being obligatory,
+according to others, it is interpreted as being recommended, and according to
+others, judgment is suspended regarding it.
+If it is not done out of worship and obedience, it is interpreted as being
+permissible.
+The Prophet‘s corroboration83 of what someone else says is like his saying it
+himself, and his corroboration of what someone else does is like his doing it
+himself.
+If he knew about something that was done in his absence during his lifetime
+and did not condemn it, then it is as if the action was done in his presence.
+
+82 A matter that is not performed as an act of worship would mean that it could be his
+
+personal preference or choice. It can also include human characteristics such as eyeblinking, breathing etc.
+83 Validation, Support
+www.australianislamiclibrary.org
+
+59
+
+Australian Islamic Library - 2015
+
+Abrogation (‫)الىســـخ‬
+Naskh means removal or to cause to pass away (‫)اإلزالـة‬: as it is said, ( ‫نسـخت الشـمس‬
+‫― )الظـل‬The sun did naskh of the shade,‖ when it makes it disappear.
+Naskh also means to transfer or copy (‫)النقـل‬: as it is said, (‫― )نسخت ما في هذا الكتاب‬I
+did naskh of the contents of this book,‖ when one transfers them.
+[In terms of Usul], it is defined as: an address that separately indicates the
+removal of a ruling established by a previous address in such a way that
+without [the second speech] the value would remain.84 There must be a delay
+[between the first speech and the second.]
+
+84 ―Technically, Abrogation means to remove a legal ruling or its wording, with another
+
+evidence from the Qur'an and the Sunnah.
+What is meant by our words 'remove a ruling' is, for example, to change from an obligation
+to permissibility or from permissibility to prohibition. What is not meant by this is the
+non-implementation of a ruling because of a condition or the presence of a preventative
+factor, such as the lifting of the obligation of Zakah because of not meeting the limit set,
+or the obligation of the prayer due to the presence of menstruation; these are not referred
+to as Abrogation.
+What is meant by our words 'or its wording' is the wording which is a legal proof because
+abrogation can either be the ruling without the wording or vice versa or both; as we shall
+see below. And what are not included by 'based on another evidence from the Quran and
+Sunnah‘ are evidences from consensus and analogy, as they cannot abrogate‖. (alUthaymin, 2013)
+And abrogating is acceptable, intellectually, and is a legal (Shariah) reality.
+
+www.australianislamiclibrary.org
+
+60
+
+Australian Islamic Library - 2015
+
+Wisdom behind Abrogation:
+It is because in Allah's hand is total power and authority, because the Lord is the owner,
+He may legislate whatever his wisdom and mercy necessitates for His slaves, so does the
+intellect prevent us from seeing that the Possessor orders those He possesses however He
+wants? His wisdom and mercy with his servants also necessitates that He legislates for
+them what is in their best interests in the worldly life and the hereafter. Benefits differ
+from time to place. So one ruling at certain time or state may be more beneficial for the
+slaves than at another time or state, and Allah is All-Knowing and the All- Wise.
+The Wisdom of Abrogation is explained by Sheikh Ibn Ul-Uthaymeen as follows:
+There are many wisdoms for Abrogation; from them:
+-
+
+Taking into account the interests of people by legislating what is best for them in their
+religious and worldly affairs.
+Gradually developing the legislation until it reaches perfection.
+Testing the mukallafeen (those upon whom Shar'i injunctions are binding), their
+readiness to accept the transition from one rule to another and being content with it.
+Testing the mukallafeen to see if they give thanks for when the abrogation makes things
+lighter for them, to see if they are patient when the abrogating text is harder for them.
+
+Some Shariah evidences dealing with abrogation are mentioned below:
+―We do not abrogate a verse or cause it to be forgotten except that We bring forth [one]
+better than it or similar to it.‖ (2:106)
+―Now, Allah has lightened [the hardship] for you‖ (8:66)
+The saying of the Prophet ‫― ﷺ‬I used to forbid you from visiting graves so visit them
+(from now on)‖. This text abrogated the prohibition of visiting the graves.
+What Prevents Abrogation Taking Place:
+Abrogation is prevented from the taking place in the following cases:
+i. News, because abrogation only deals with rulings, as abrogation of one of the two
+pieces of news means one of them has to be a lie, and lying is impossible in news that
+Allah and His Messenger bring. However if a change in situation happens, then this can
+be abrogated.
+ii. The rulings that are of benefit in every time and place, such as Tawhid, the principles of
+faith, worship and morals of honesty and chastity, generosity, courage, and so on, cannot
+be abrogated. Likewise the prohibition of all that is evil in every age and place like Shirk
+www.australianislamiclibrary.org
+
+61
+
+Australian Islamic Library - 2015
+
+TYPES OF NASKH IN TERMS WHAT GETS ABROGATED:
+(‫)أقسام النسخ باعتبار المنسوخ‬
+
+A text can be abrogated while the value [it indicates or ‗ruling‘] remains; a
+value can be abrogated while the text remains, or both can be abrogated
+together.85
+
+and kufr as well as bad character such as lying, immorality; greed and cowardice etc.,
+since the laws are for the well-being of people and to repel evil from them.
+Conditions of Abrogation:
+The conditions for Abrogation that are required for what can be abrogated include:
+i. Two evidences that cannot be combined, because if they can be, then there is no
+abrogation since the possibility to act on both of them exits.
+ii. Knowledge of the fact that the abrogating text was revealed later, known either
+through a text, something learnt from a companion or via history.
+An example of knowledge that is known to have come later is the saying of the Prophet
+Muhammad ‫ ﷺ‬authorized mu‟tah (temporary marriage) in earlier times and then
+forbade it in accordance with Allah‘s command in later period till the Day of Resurrection
+(Sahih Muslim 1406).
+And an example of knowledge reaching us by way of information from a companion is
+the statement of A'ishah R.A. in which she reported explained about nullification of
+marriage based on certain acts between husband and wife (Sahih Muslim 1452).
+And an example of knowledge garnered through history occurs in the saying of the Most
+High: 'Now Allah has lightened the burden from you‖. The word 'now' indicates that this
+ruling is the latter (of whatever preceded it of the same issue). Similarly, if it were stated
+that the Prophet ‫ ﷺ‬gave a ruling for something before the migration, and then gave
+another ruling after that which opposed the first then the second one would be counted
+as the abrogating one.
+85 Abrogation
+
+is divided into three segments with regards to the abrogated text (alMunajjid, 2013; al-Uthaymin, 2013):
+
+www.australianislamiclibrary.org
+
+62
+
+Australian Islamic Library - 2015
+
+Some abrogation substitutes [a new requirement for the old one], and some
+does not. Some abrogation results in a tougher [requirement], and some in a
+lighter [requirement.]
+TYPES OF NASKH IN TERMS SOURCE FOR ABROGATION:
+
+-
+
+When the ruling has been abrogated and the wording has remained as seen from the
+following verses of Qur'an. 'If there are among you twenty [who are] steadfast, they
+will overcome two hundred;' (8:65). Its ruling abrogated by the saying of the Most
+High: 'Now, Allah has lightened [the hardship] for you, and He knows that among
+you is weakness. So if there are from you one hundred [who arc] steadfast, they will
+overcome two hundred. And if there are among you a thousand, they will overcome
+two thousand by the permission of Allah. And Allah is with the steadfast.‘ (8:66)
+And the wisdom of abrogating the ruling and not the verse is to allow the reward of
+reciting it to remain, and a reminder to the Muslim nation of the wisdom of
+abrogation.
+
+-
+
+When the wording has been abrogated but the ruling remains, such as the
+abrogation of the verse which speaks of the five breast-feedings by which the
+relationship of mahram is established between the infant and the woman who
+breastfeeds him or her.
+The wisdom of abrogating the wording but not the ruling is to test the Ummah to see if
+they will act upon something that is not in the Qur'an and fulfilling their belief in
+what Allah has revealed the exact opposite of the state of the Jews that tried to hide
+abrogation mentioned in Torah.
+Shaykh ‗Abd ar-Rahmaan as-Sa‗di (may Allah have mercy on him) said:
+Naskh (abrogation) means moving; thus the meaning of abrogation is moving those
+who are accountable from one prescribed ruling to another, or waiving the ruling. The
+Jews used to condemn abrogation and claim that it was not permissible, even though
+it was referred to in the Torah; thus their rejection of it constituted disbelief and was
+based on pure whims and desires.
+
+-
+
+What has been abrogated both in wording as well as ruling: such as the abrogation
+of the ten breast feedings as in the previous narration of A'ishah R.A.
+
+www.australianislamiclibrary.org
+
+63
+
+Australian Islamic Library - 2015
+
+(‫)أنواع النسخ باعتبار الناسخ‬86
+It is possible for:
+-
+
+the Quran to be abrogated by Quran, and
+
+-
+
+the Sunnah to be abrogated by the Quran87
+
+-
+
+What is collectively transmitted can be abrogated by what is collectively
+transmitted, and
+
+-
+
+what is individually transmitted can be abrogated by what is
+individually or collectively transmitted,
+
+-
+
+What is collectively transmitted CANNOT be abrogated by what is
+individually transmitted.
+
+86 Sheikh Al-Uthaymeen explains:
+
+The majority has stipulated that the abrogating text has to be stronger than what it is
+abrogating or at least similar, therefore the mutawatir (the narration that has multiple
+narrators) would not be abrogated by narrations that are ahad (narrations that have a
+single narrator at each level of the chain), even if it is established (as a correct narration),
+what is most correct is that it not be stipulated whether or not the abrogating text be
+stronger or similar, reason being the purpose of the abrogation is the ruling, and so it
+should require it to be mutawatir for it to take place.
+87 Example of abrogation of the Sunnah by the Qur'an is the case of abrogation of facing
+
+the Sacred House in Jerusalem which was established by the Sunnah, to facing the Ka'bah
+which was in turn established by the saying of the Most High.
+www.australianislamiclibrary.org
+
+64
+
+Australian Islamic Library - 2015
+
+Decoding Apparent Conflicts (‫)التعارض‬:
+Reconciliation vs. Preponderance
+CONFLICT AND PREPONDERANCE
+When two statements conflict, then either:
+- Both are general, or
+- Both are specific, or
+- One is general and the other is specific, or
+- Each is general from one perspective and specific from another.
+If both are general, and it is possible to reconcile between them, ten one has to
+reconcile them.
+If it is not possible to reconcile them, then if the dates are unknown, judgment
+regarding each of them is suspended. The same applies when both are specific.
+If one is general, and the other is specific, then the general is specified by the
+specific. If each is general from one perspective and specific from another
+perspective, then the generality of each is specified by the specificity of the
+other.88
+
+88 Following is a useful explanation ―Lessons In Usul And Fiqh From Various Madhaahib‖
+
+(Ibrahim, 2009):
+
+www.australianislamiclibrary.org
+
+65
+
+Australian Islamic Library - 2015
+
+Taa'rud means conflict.
+In Usul al Fiqh, Taa‟rud means that two evidence of Shariah are of equal strength and they
+seem in opposition to each other (Doğan, 2015). A conflict is thus not expected to occur if
+the two evidences are of unequal strength, because the stronger evidence will prevail. For
+this reason, there will be no conflict between a Qati‟i (conclusive) and dhanni (nondefinite) proof.
+If, however, the opposite is required by 2 Quranic Ayat or by a Quranic Ayat and a
+Mutawatir Hadith (these two are considered equal in authenticity) or by two Ahad Hadith
+(difference of opinion in this), then, there is a conflict.
+Conflict can only arise, if the rulings of the two evidences cannot be reconciled. This
+means that the subject matter of one cannot be distinguished from the other or the time
+sequence of them cannot be distinguished (that is it cannot be ascertained which one is
+the latter).
+A genuine conflict can hardly arise between Qati‟i (definite) proofs. All such conflicts are
+apparent, rather than real. Such apparent conflicts can be resolved by reconciliation, by
+specification or by giving preference of one over the other.
+A conflict between Nasus (explicit texts of the Quran and the Sunnah) and Ijma is
+inconceivable as Ijma cannot violate Nass.
+So, following procedure can be adopted to deal with conflict:
+-
+
+-
+
+A Mujtahid must try to reconcile the apparent conflict in which case both the evidence
+will be applicable in different sets of circumstances.
+If this is not possible, he should try to prefer one over the other, thus at least one
+evidence will be kept.
+If this is not possible, then, he should see the time sequence and apply the principle of
+abrogation.
+In this way the later evidence will be retained and the earlier one in time will stand
+abrogated (however such cases are very few).
+If this is also not possible, both the evidences will be abandoned. When two evidence
+in conflict are Al-Am (general), one may try to distinguish the subject matter of
+application (for instance one may be applicable to adult and the other to the minor or
+one may be applicable to married people and the other to unmarried people.)
+If one evidence is Am (general) and the other Khass (specific), the solution is Takhsis al
+Amm (specification of a part of Am).
+As regards, cases where both the rulings cannot be retained because of apparent
+conflict, the following rules of preference should be applied :
+www.australianislamiclibrary.org
+
+66
+
+Australian Islamic Library - 2015
+
+-
+
+Clear texts will be preferred over unclear texts
+Sarih will be preferred over Kinayah, Haqiqi over Majazi and so on.
+Mutawatir Hadith will be preferred over Mashhur and Mashhur will be preferred over
+Ahad
+Hadith transmitted by Faqih or leading companions are preferred over others.
+Another rule of preference is that affirmative rule takes priority over negative.
+Similarly prohibition takes priority over permissibility.
+
+If attempts at reconciliation or preference fail, then resort should be taken to abrogation
+(Naskh).
+In the case of conflict of two Qiyas, if the two cannot be reconciled, one may be given
+preference.
+
+www.australianislamiclibrary.org
+
+67
+
+Australian Islamic Library - 2015
+
+Scholarly Consensus (‫)اإلجمــاع‬
+Scholarly consensus is ―the agreement of the scholars of a generation on the ruling of
+an occurrence‖89.
+By ―scholars‖ we mean ―scholars of Sacred Law,‖ (‫ )الفقهـاء‬and by ―occurrence‖
+we mean ―an occurrence that relates to Sacred Law.‖ (‫)الحادثـة الشـرعية‬
+The consensus of this community, and no other, is an authoritative proof,
+because [the Prophet] has said ―my community does not agree upon an error.‖90
+91
+
+89 In Islamic terminology, Ijma was defined by az-Zarkashi (may Allah have mercy on
+
+him) as follows (Al-Munajjid, 2013): It is the unanimous agreement of the mujtahid
+scholars of the Ummah of Muhammad (blessings and peace of Allah be upon him) after
+his death concerning some issue at any particular time (al-Bahr al-Muheet).
+Sheikh Sajid Umar explains it as follows: The agreement of all the mujtahids from among
+the Muslims in a determined period after the death of Prophet Muhammad ‫ ﷺ‬upon a
+rule of Islamic law (Sheikh Sajid Umar, 2012).
+90 At-Tirmidhi (2167) - Classed as saheeh by al-Albaani in Saheeh al-Jaami‗ as-Sagheer,
+
+no. 1848
+91 Another similar hadith from Musnad Ahmed also conveys this point:
+
+Ahmad (may Allah‘s mercy be upon him) narrated in his Musnad (27224) from Abu
+Basrah al-Ghifaari, the companion of the Messenger of Allah (blessings and peace of
+Allah be upon him) that the Messenger of Allah (blessings and peace of Allah be upon
+him) said: ―I asked my Lord, may He be glorified and exalted, for four things, and He
+granted me three of them and withheld one from me. I asked Allah, may He be glorified
+and exalted, not to cause my Ummah to agree on misguidance, and He granted me that.‖
+www.australianislamiclibrary.org
+
+68
+
+Australian Islamic Library - 2015
+
+Revelation has mentioned that this religious community is divinely protected
+from error.
+Scholarly consensus is binding on subsequent generations, regardless of when
+the consensus occurred92. The correct position is that generational demise is not
+a condition. Someone who holds that it is a condition will also take into
+consideration the position of someone who is born during their lifetimes,
+studies Sacred Law, and becomes a mujtahid, and he will also allow them to go
+back on their judgment.
+Scholarly consensus can be established by their statements, by their actions, or
+by the statements or actions of some when the statements or actions are wellknown and the others remain silent.
+According to Shafi`i's later position, the position of one Companion is not
+binding on anyone else.
+
+92 Scholars have various opinions about what types of Ijma can be binding on subsequent
+
+generations. (A. bin H. Ali, 2010)
+www.australianislamiclibrary.org
+
+69
+
+Australian Islamic Library - 2015
+
+Transmitted Reports (‫)األخبــــار‬
+A report is something that can be described as being true or false. One may
+sometimes be certain of its truth or falsehood.
+Reports93 are either:
+-
+
+non-mass-transmitted (‫)آحاد‬, or
+
+-
+
+mass-transmitted (‫)متواتر‬
+
+A mass-transmitted report94 is what gives certainty. It is when a group that
+cannot conspire to lie narrates from a similar group all the way back to the
+matter that is reported, which must be something that is seen or heard.
+
+93 Knowledge
+
+of this aspect is required to understand which ahadith/ akhbar can be
+considered as evidence for certain ruling and which can‘t be - based on parameters and
+factors defined under the illustrious branch of knowledge known as ‗Usul al-hadith‘.
+APPENDIX 1 provides a very useful visual overview of hadith classifications.
+94 Mutawatir / Tawatur is a Daleel transmitted by a large number of people. Due to the
+
+large number of people reporting the Daleel and their diversity of residence, reliability,
+and conviction, it is inconceivable that this Daleel could be fabricated. The character of the
+reporters narrating Mutawatir Ahadith has to be noble. This aspect is studied in detail by
+muhaditheen (hadith scholars) who analyse biographies of narrators, strength of their
+memories, their historical acceptability and correctness in narrating and other relevant
+factors.
+
+www.australianislamiclibrary.org
+
+70
+
+Australian Islamic Library - 2015
+
+A non-mass-transmitted report is what obligates implementation but does not
+give certainty.
+It is of two types:
+-
+
+Contiguous (‫)مسند‬, and
+
+-
+
+Interrupted (‫)مرسل‬
+
+A contiguous report is one with a connected chain of transmission.
+An interrupted report is one with a disconnected chain of transmission.
+
+As a broader rule, following can be considered the basis of classification (Hilal, 2004):
+
+Ahad riwayat can be further classified as below:
+
+The three subcategories within ‗Ahad‘ are as follows:
+Mashoor: A Hadith reported by at least three individuals in every class (Sahabah, Tabi‟een,
+etc.).
+Aziz: A Hadith reported by at least two individuals in every class.
+Gharib: A Hadith reported by only one individual in one or more classes.
+Further classification and analysis of authenticity can be explained as well but we will
+leave it for the subject on usul al-hadith to remain focussed on our subject area here i.e.
+introduction to usul al-fiqh.
+www.australianislamiclibrary.org
+
+71
+
+Australian Islamic Library - 2015
+
+If the one who omits a narrator is other than a companion, then an interrupted
+report is not binding proof (‫)حجة‬.
+Exclusion to this are the interrupted reports of narrator Sa`id b. al-Musayyib,
+which have been investigated and found to be contiguous95.
+
+WORDING OF TRANSMITTED REPORTS:
+Contiguous chains of transmission may contain the word, ―from‖ („an).
+- When the teacher reads, it is permissible for the narrator to say both
+―haddathani‖ (‫ )حدثني‬and ―akhbarani‖ (‫)أخبرني‬.
+- If the narrator reads to the teacher, then he may say, ―akhbarani‖ but
+not ―haddathani‖.
+- If the teacher gives him permission (‫ )أجازه‬to narrate from him without
+any actual narration, he should say, ―ajazani‖ (‫ )أجازني‬or ―akhbarani
+ijazatan‖(‫) أخبرني إجازة‬.
+
+95 Muwatta'
+
+makes it clear to us that Imam Malik uses mursal, munqati' and balaghat
+hadiths but does not explain how he chose them because the book does not go into the
+problems concerning the isnads. The reason for this is that the noble Imam only
+transmitted from people in whose mursal and balaghat hadith he had absolute confidence.
+That is why his great concern was with the choice of transmitter. When he had confidence
+in the character, intelligence and knowledge of the transmitter, he dispensed with the
+chain of narration.
+www.australianislamiclibrary.org
+
+72
+
+Australian Islamic Library - 2015
+
+Analogy (‫)القيـــاس‬
+Analogy or Qiyas96 is relating the branch to the root by a common characteristic
+that gives them the same value.
+
+96 Literally,
+
+Qiyas means measuring or ascertaining the length, weight or quality of
+something. Scales are called „miqyas‟ which is derived from the same root word. Qiyas
+also means comparison – equality or similarity between two things.
+Technically; Qiyas is an:
+Extension of a Shariah value (wajib, haram, mubah, mandoob, and makrooh)
+from an original case (asl)
+to a new case (far‘),
+because the latter has the same effective cause (illah) as the former.
+The original case is ruled by the Quran or Sunnah and qiyas aims to extend the same
+ruling to the new case based on the same illah.
+It was defined by Ibn Qudaamah R.A. as follows:
+―Giving a ruling concerning a novel issue (i.e., one that is not directly mentioned in shar‗i
+texts) that is the same as the ruling on a basic issue (i.e., one that is directly mentioned in
+shar‗i texts), on the basis of some common factor between the two issues.‖ (1998 ,‫)ابه قـدامـة‬
+Sheikh Yahya Ibrahim explains (Ibrahim, 2009):
+Qiyas is when scholars of Islamic Shariah establish an understanding by looking at
+something similar to the issue, or to the opposite of it.
+Why the opposite? Because, ―some things are better known by their opposites‖.
+For example, if there were no darkness how would we know what light is?
+As such, when we enter the mosque, the Sunnah is to enter with our right foot. So, by
+analogy or ―Qiyas‖ the scholars have said that if we enter a place of righteousness with
+www.australianislamiclibrary.org
+
+73
+
+Australian Islamic Library - 2015
+
+the right foot, then a place of filth, such as the washroom, should be entered with the left
+foot.
+Sheikh Salih Al-Munajjid explains:
+There are four pillars or components of analogy:
+- the basic issue (asl),
+- the novel issue (far‟),
+- the ruling (hukm) and
+- the common factor (illah).
+These components may be understood further by giving an example. If we say, for
+example, that nabeedh is an intoxicant, then it is haram like khamr (wine).
+(Nabidh or Nabeedh is a drink traditionally made from fruits such as raisins/grapes or dates.
+Nabidh may be non-intoxicating, mildy intoxicating, or heavily intoxicating depending on the
+level of fermentation. The type of Nabeedh discussed in this example is the intoxicating one.)
+-
+
+In this case the basic issue (asl) is khamr. This is called the basis of the analogy,
+which is the issue or item of which the text speaks or on which there is consensus.
+
+-
+
+The novel issue (far‟) is nabeedh, which is the matter concerning which analogy is
+made. This is the matter concerning which there is no text or consensus; it is the
+issue for which we want to find the shara‗i ruling.
+
+-
+
+The ruling (hukam) is that it is prohibited. This refers to a ruling that is proven
+concerning the basic issue, whether on the basis of a text or consensus, and
+whether the ruling is one of prohibition or otherwise, which we want to transfer to
+the novel issue concerning which there is no evidence or direct mention in any
+text.
+
+-
+
+The common factor is intoxication. The factor is the reason for which the Lawgiver
+issued a ruling concerning the basic issue.
+
+Visually, we can summarize it as follows:
+
+www.australianislamiclibrary.org
+
+74
+
+Australian Islamic Library - 2015
+
+Consuming Alcohol
+
+Consuming nabeedh
+
+ASL
+
+FAR’
+
+(Original Issue for
+which Shariah ruling
+
+(A novel issue about
+which ruling is being
+
+is available)
+
+found through qiyas)
+
+1
+
+2
+
+ILLAH/
+REASON
+Intoxicating Effects
+
+3
+
+HUKM/
+RULING FOR
+ALCOHOL
+Haram
+
+Common Illah,
+Therefore,
+Common Ruling
+i.e. Haram
+
+HUKM/
+RULING FOR
+NABEEDH
+Haram
+(Identified)
+
+4
+QIYAS – VISUAL EXPLANATION OF ITS 4 INGREDIENTS
+
+It is worth noting that the Prophet (blessings and peace of Allah be upon him) used
+analogy in his fatwas to point out this principle to the people and teach it to them.
+For example:
+Al-Bukhaari (1852) narrated from Ibn ‗Abbaas (may Allah be pleased with him) that a
+woman from Juhaynah came to the Prophet (blessings and peace of Allah be upon him)
+and said: My mother vowed to perform Hajj, but she did not perform Hajj before she
+died; can I perform Hajj on her behalf? He said: ―Yes, perform Hajj on her behalf. Don‘t
+you think that that if your mother owed a debt, wouldn‘t you pay it off? So pay off the
+www.australianislamiclibrary.org
+
+75
+
+Australian Islamic Library - 2015
+
+[In other words, Analogy is equating of a derivative case with an original case
+through a legal cause that unites them in their legal ruling].
+It is of three types:
+- Causal analogy (‫)قياس علة‬
+- Indicative analogy, (‫ )قيسا داللة‬and
+- Resemblance-analogy (‫)قياس شبه‬
+Causal analogy is where the legal cause necessitates the legal ruling.
+Indicative analogy is to adduce one of two similar cases as evidence for the
+other; this happens when the legal cause indicates the legal ruling but does not
+necessitate it.
+Resemblance-analogy consists of a derivative case that alternates between two
+original cases and is given the ruling of the one that it resembles the most.
+One of the conditions of the derivative case (Far' - ‫ )الفرع‬is that it be compatible
+with the original case.
+One of the conditions of the original case (‗asl‘ - ‫ )األصل‬is that it be established
+with a proof that both disputants agree on97.
+
+debt owed to Allah, for Allah is more deserving of having debts owed to Him being paid
+off.‖
+97 Application of Qiyas, as a legal tool, can also involve parties looking for a ruling
+
+through a court case as it is not restricted to finding rulings on matters of halal and haram
+at individual level.
+www.australianislamiclibrary.org
+
+76
+
+Australian Islamic Library - 2015
+
+One of the conditions of the legal cause (‗illah‟ - ‫ )’العلة‬is that it be consistently
+present in the legal rulings that it causes so that neither its attribute nor its
+purpose is inconsistent.
+One of the conditions of the legal ruling (‗hukm‟ - ‫ )الحكم‬is that it follow the legal
+cause in absence and presence. The legal cause is what attracts and the legal
+ruling is what is attracted to the legal cause.
+
+PROHIBITION, PERMISSION, AND THE PRESUMPTION OF CONTINUITY
+Some say that all matters are prohibited (‫ )الحظر‬until the Sacred Law permits
+them: if, therefore, there is nothing in the Sacred Law that indicates
+permissibility, we should default to the original state, which is prohibition.
+Others say the opposite, namely that the initial assumption about matters is
+that they are permitted (‫ )اإلباحة‬except for those that the Sacred Law has
+prohibited.
+―Presumption of continuity‖ means that the original state is assumed to persist
+when the Sacred Law doesn‘t indicate otherwise.
+
+PRIORITIZATION OF EVIDENCES AND PROOFS:
+As for proofs, clear proofs are given precedence over obscure ones, proofs that
+afford certain knowledge over those that afford probabilistic knowledge,
+statements over analogy, and clear analogy over obscure analogy.
+
+www.australianislamiclibrary.org
+
+77
+
+Australian Islamic Library - 2015
+
+If a statement comprises something that changes the original state, it is
+implemented; otherwise, one presumes the continuity of the original state.
+
+www.australianislamiclibrary.org
+
+78
+
+Australian Islamic Library - 2015
+
+Independent Interpretation and
+Following Qualified Scholarship
+
+IJTIHAD, GIVING FATWA
+Among the prerequisites of a mujtahid98 (‫ )شــزوط انًفتــي‬is that:
+
+98 Ulema have set certain standards (laid down criteria) for the 'Mujtahid' (a highly skilled
+
+scholar who is qualified to deduce legal rulings from the sources). Imam Al-Juvaini
+explains these qualities in three simple points. However, it may be useful to have an
+overview of opinions of some other scholars as well for a comparative study.
+Following is a brief overview:
+Imam Shafi’i:
+Imam Ibn Qayyim R.A. references a quote from Imam Ash-Sahfi R.A. (2006 ,‫;الجوزية‬
+―Ijtihaad - criteria and categories,‖ 2001):
+―It is not permissible for anybody to give Islamic legal opinion (fatwa) who is not well
+versed in Quran and is well acquainted with the science of abrogation as well as the
+following science i.e. the science of those verses which are explicit in their commands and
+those verses which are Mutashabih (implicit), the science of Ta‟weel and Tanzeel and the
+science of knowing which chapter (surah) was revealed in the venerable city of Mecca and
+which were revealed in the illumined city of Medina Al Munawarah. Apart from the
+above-mentioned sciences, he should also be well acquainted with the science of the
+traditions of the Holy Prophet Mohammed ‫ﷺ‬. He should also be knowledgeable in
+those sciences of the Quran, which are directly related to the Ahadith. He should be
+familiar with Arabic and Arabic poetry as well as being familiar with all the things which
+are necessary for the understanding of the Quran and the sayings of the Holy Prophet
+Mohammed ‫ﷺ‬. In addition he should be well versed with the various opinions of the
+Islamic scholars on Islamic issues. All the above conditions should become second nature
+to him due to excessive repetition. When one reaches such a stage, i.e. possesses all the
+www.australianislamiclibrary.org
+
+79
+
+Australian Islamic Library - 2015
+
+above conditions, only then is he allowed issuing Islamic legal opinions (Fatwa). One who
+has not reached such a position is not allowed to give Islamic legal opinion‖.
+Imam Ahmed Bin Hanbal:
+Saleh bin Ahmed R.A. states that he asked his father Imam Ahmed bin Hanbal R.A. about
+his view regarding an individual who, upon being questioned concerning an Islamic
+issue, answers in correspondence with the Hadith and his answer collaborates with a
+statement of the holy prophet Mohammad ‫ﷺ‬, in spite of him not possessing the
+knowledge of Islamic jurisprudence. In reply Imam Ahmed bin Hanbal R.A., stated that
+when an individual reaches the esteemed position of jurisconsult, it becomes incumbent
+for him to have knowledge of all the various views and propositions regarding the holy
+Quran as well as having familiarities with the traditions of the holy Prophet Mohammad
+‫ ﷺ‬and being a master of the authentic chain of narrations. He then quoted all the
+prerequisites which are quoted above from Imam Shafi'i.(―Ijtihaad - criteria and
+categories,‖ 2001)
+Sheikh Ibn Uthaymeen:
+Following explanation from Sheikh Ibn Uthaymeen highlights some important
+considerations to avoid mis-guidance:
+―The one who is able to engage in ijtihaad can find out the truth for himself, but he must
+have vast knowledge and study the shara‘i texts, and understand the guidelines on
+deriving rulings and be aware of the views of the scholars, lest he fall into that which is
+contrary to Islam. Some people are seekers of knowledge (taalib al-‗ilm) who have only a
+little knowledge, but they set themselves up as mujtahids, so you see them acting on the
+basis of ahadith which are general (al-am) in meaning but have other reports which make
+them specific (i.e. takhsees), or they act on the basis of abrogated ahadith and do not
+know of the texts that abrogate them, or they act on the basis of ahadith (about) which the
+scholars are unanimously agreed (that their real meanings) are different from their
+apparent meanings, but they are unaware of this scholarly consensus. Such a person is in
+grave danger.
+The Mujtahid must have knowledge of the shara‘i evidence and knowledge of the basic
+principles (usul) and scholarly views which, if he knows them, he will be able to derive
+rulings based on that evidence without unwittingly going against scholarly consensus. If
+these conditions are met in his case, then he may engage in ijtihaad.
+Ijtihaad may be focused on a narrow area, so a person may research one issue of
+knowledge and examine it thoroughly, and become a mujtahid with regard to that issue,
+or he could focus on one aspect of knowledge, such as issues having to do with tahaarah
+www.australianislamiclibrary.org
+
+80
+
+Australian Islamic Library - 2015
+
+(purification), which he researches and examines, and thus becomes a mujtahid in that
+area‖ (1999 ,‫)خالد بن عبد الرحمن الجريسي‬.
+Dr. Abdul Azim Islahi (‫)جامعة الملك عبدالعزيز‬:
+Qualities of Mujtahids mentioned in al-Waraqat can be read in conjunction with the
+following explanation regarding conditions for mujtahids elaborated by Dr. Abdul Azim
+Islahi (―Conditions of a Mujtahid,‖ 2004). This explanation is suitable for beginners as it is
+written in a really simple language and points outs the opportunities for further learning.
+"To ensure correct decision in the progress of Ijtihad and prevent the non-qualified from
+exercising it, the `Ulema have prescribed certain conditions. Let us examine them in the
+context of the present time.
+i. Piety (At-Taqwa) has been considered the most basic condition for a mujtahid (one who
+is qualified for Ijtihad). Since Ijtihad is a sacred duty and religious responsibility, qualities
+like honesty, integrity and piety must be found in a person who exercises Ijtihad. But
+piety is a matter of the heart, as once the Prophet (peace and blessings be upon him) said,
+"Piety is here." One cannot measure the piety of another except by knowing that a person
+is apparently regular in performing the obligations of Shariah: he avoids sins, and does
+not get involved in temptation that tarnishes his reputation.
+ii.
+
+Knowledge of the spirit and objectives of Shariah: It is also important in making a
+decision and forming an opinion to understand the spirit of Shariah, and have the
+knowledge of its objectives. This can be achieved by a thorough study of the rules and
+injunctions of the Shariah and analysis of it. It is easy now to know more as a number of
+studies have appeared on the subject. After the survey of Islamic injunctions some of the
+leading scholars have classified the objectives of Shariah into five categories:
+-
+
+protection of religion,
+protection of reason,
+protection of life,
+protection of property and
+protection of progeny
+
+No doubt, the list is very comprehensive, but, as Ibn Taymiyah says, the objectives are
+not confined to these only.
+Anything Islamically desirable becomes an objective of the Shariah. Promotion of the spirit of
+Ijtihad may also be included in the list of Shariah objectives, or it may be put under the
+objective of protection of reason, as only then Islam can properly respond to the changes
+and challenges faced in any period.
+www.australianislamiclibrary.org
+
+81
+
+Australian Islamic Library - 2015
+
+iii.
+
+Knowledge of the Qur'an and the Sunnah: The Qur'an and the Sunnah are the basic
+sources of Islam. Therefore no Ijtihad can be conceived without having their knowledge.
+There are five hundred verses of the Qur‘an which consist of different rules (Ahkam). In
+the opinion of some scholars, they must be known to a mujtahid. But it is better that the
+inference of rules is not limited to those verses only. A mujtahid must have a general
+perception of the whole Qur‘an.
+As far as hadiths are concerned, their number is in the thousands and various authentic
+collections have been prepared. A mujtahid must have studied at least one of them
+thoroughly. He should be aware of different collections, their authors, their
+characteristics, styles and categorization. He should be able to consult them on the issue
+he is dealing with.
+At present, it has become very easy to go through all verses, hadiths and opinions of
+earlier scholars on a topic as rules and principles have been formulated and indexes have
+been prepared to facilitate their consultation.
+
+iv.
+
+Principles of jurisprudence are tools for deriving rules (Ahkam) from the Qur‘an and
+Sunnah, and the jurisprudence is the sum total of such rules. The knowledge of these two
+is always helpful with respect to inference of rules from the Qur‘an and Sunnah. The
+principles of jurisprudence are easily accessible as they are available in a well-organized
+form. We also have the fiqh of every school of jurisprudence available with their evidence
+and arguments. Now it is possible to decide the most relevant and suitable opinion
+through an unbiased comparative study of different rules.
+
+v. A mujtahid should have the knowledge of nasikh and mansukh (abrogating and
+abrogated), i.e., which one out of two contradictory and opposite texts is later in
+revelation. This might have occurred due to change of a rule, replacement, withdrawal or
+omission. It is not necessary to remember all such texts. But one must enquire the text
+related to the concerned issue. Past scholars have done a lot of work about an-Nasikh, and
+have listed all such verses and hadiths. Now it is not difficult to find it out anytime.
+vi. The consensus of the Ulema or the experts of Shariah is in its own right a Shariah source
+based on Ijtihad (by inference) - there are differences in opinions in its details. On this
+topic too, various reference works are available. One can easily refer to them.
+vii.
+
+Along with the knowledge of the Qur‘an and Sunnah, Ijma`, Naskh, opinions of the
+companions of the Prophet and followers, and principles of jurisprudence, one has to
+acquire sufficient knowledge of every aspect of the issue about which Ijtihad is required.
+It has become more important especially in this age as the development in the field of
+science, economy, politics and society in general has created complex problems that can
+only be understood by experts. One may not be an expert in every field. To fulfil this
+www.australianislamiclibrary.org
+
+82
+
+Australian Islamic Library - 2015
+
+(1) He have knowledge of Sacred Law, both in methodology and application,
+both in areas of scholarly disagreement and adopted positions; and that
+(2) He have all the tools that are needed for ijtihad; and that
+(3) He know what he needs in order to derive legal rulings, such as grammar,
+Arabic language, hadith narrators, and the explanation of Quranic verses and
+hadiths and ahkam (plural of hukm – legal rulings) that are connected with legal
+rulings.
+Among the conditions of someone who seeks fatwa (‫ )شرط المستفتي‬is that he be
+allowed to follow a mujtahid.
+condition, a mujtahid must take the help of the specialist of the concerned field and get the
+problem fully explained.
+viii.
+
+Over and above all the aforementioned requirements, one must possess a natural skill
+of Ijtihad — sharp intellect and penetrating insight - to analyse and infer the rule. This
+instinct is not particular to any age. However the methodology of research and tools of
+investigation developed in the modern age may help enhance this quality.
+
+ix.
+
+Last but not least is skill in the Arabic language. The reason is clear. Original sources
+of Shariah are in Arabic. Any Ijtihad without the working knowledge of Arabic cannot
+enjoy authenticity and confidence. It may not receive the approval of others. This is so
+because a very small portion of the tools of knowledge required for Ijtihad is available in
+translation form. Moreover, very often the translation cannot fully convey the letter and
+spirit of the text.
+At present we find very advanced and scientific institutions teaching this official
+language of Islam. New techniques have been developed to impart maximum knowledge
+in a minimum period. In fact, hardly any original work can be done on Islam without the
+knowledge of Arabic. One who is an aspirant to Ijtihad must begin with this.
+Ijtihad should be encouraged and scholars should be trained for it. Those who have
+instinct for it must acquire the tools necessary for it."
+
+www.australianislamiclibrary.org
+
+83
+
+Australian Islamic Library - 2015
+
+FOLLOWING (‫)التقلـــيد‬:
+It is not permitted for a scholar to follow anyone else (‫)وليس للعالم أن يقلد‬99.
+
+99 According to our study, much of the debate on whether to do taqleed or not to do it, is
+
+based on a lot of misunderstandings and confusions. The crux of the matter is that the
+ruling is different for different people, based on their knowledge and skill-set, with little
+significant difference between scholars on key principles.
+Following explanation from Sheikh Saleh Al-Fawzan (al-Munajjid, 2015) summarizes the
+whole matter behind taqleed in a very beautiful manner and is expected to clarify most
+mis-understandings.
+“People fall into four categories:
+-
+
+The first category is those who are able to made ijtihad in absolute terms, by
+referring directly to the Quran and Sunnah and deriving rulings from them, and
+they do not follow any other scholars (taqleed).
+This is the highest status, but this only applies to the one who fulfils the known
+conditions of ijtihaad, by having knowledge of the Book of Allah and the Sunnah of
+the Messenger of Allah (peace and blessings of Allah be upon him), and by having
+knowledge of Arabic in which the Quran was revealed, and by having knowledge
+of al-muhkam and al-mutashaabih (clear, unambiguous texts and ambiguous texts), alnasikh wa‟l-mansukh (texts which abrogate others and texts which are abrogated), almutlaq wa‟l-muqayyad (texts with absolute meanings and texts with limited
+meanings), al-khas wa‟l-„am (texts with specific meanings and texts with general
+meanings). He should also have knowledge of how to derive rulings, meaning that
+he should be qualified. Such a person may engage in ijtihaad. This category
+includes people like the four imams – Abu Haneefah, Maalik, al-Shaafa‘i and
+Ahmad – as well as Sufyaan al-Thawri and al-Awzaa‘i. To these people Allah gave
+the ability to engage in ijtihaad.
+
+-
+
+The second category is those who cannot engage in ijtihaad in absolute terms, but
+they are able to weigh up the opinions of scholars and determine which is more
+correct, because of their knowledge of which opinions are based on evidence and
+which are not.
+Such a person must follow that for which there is evidence, and shun that which
+goes against the evidence. This action is called tarjeeh (weighing up what is more
+correct) and is also known as al-ijtihaad al-madhhabi (ijtihaad based on the study
+of different views).
+
+www.australianislamiclibrary.org
+
+84
+
+Australian Islamic Library - 2015
+
+-
+
+The third category is those who cannot engage in tarjeeh. Such a person is regarded
+as one of the muqallideen (those who follow other scholars), but if he knows that
+some opinion has no supporting evidence then he does not follow it. But so long as
+he does not know and it is not clear to him that it is contrary to the evidence, there
+is nothing wrong with him imitating and following the opinions of the trustworthy
+scholars.
+- The fourth category is the one who is unable to do any of the above; neither
+ijtihaad in an absolute sense nor weighing what is more correct (i.e. tarjeeh) nor
+following a specific madhhab, such as the ordinary Muslim, for example. Such a
+person has to ask the people of knowledge, as Allah says (interpretation of the
+meaning): ―So ask of those who know the Scripture, if you know not‖ [al-Nahl
+16:43]. So he should ask the one who be believes is most trustworthy and the
+scholar in whom he has the greatest confidence, of those whose knowledge and
+actions he trusts, and follow his fatwa.
+
+These are the categories of people with regard to this issue. What a person should do is
+know what level he is at, and he should not put himself in a higher position than he
+deserves. Indeed, the matter is more serious than that. He should fear Allah, because it is
+the matter of halal and haram, of Paradise and Hell, so he should not indulge in matters
+that he does not have the knowledge and skill to deal with (Excerpt from I‘aanah alMustafeed bi Sharh Kitaab al-Tawheed)
+Regarding the taqlid of scholars by laymen, Shaykh Muhammad al-Amin al-Shinqiti
+wrote:
+‗As for the permitted [type of] taqlid, which none from the Muslims contest, it is a
+layman making taqlid of a scholar qualified to issue fatwas about the various
+circumstances and issues one encounters. This type of taqlid was in vogue during the time
+of the Prophet ‫ ;ﷺ‬no difference existed about its legality.‘ (2011 ,‫)الشىقيطي‬
+Forbidding taqlid to even the lay people not only opposes scholarly consensus, and
+therefore Sunni orthodoxy; but even more tragically, such a view has, historically, only
+been associated with the innovators (ahl al-bid„ah such as hadith rejecters). Which is why
+Ibn Qudamah r.a stated: ‗It is the view of some of the Qadarites that the lay people are
+required to investigate the proofs, even in the detailed religious rulings (fur„). But this is
+futile by consensus of the Companions.‘ (1993 ,‫)ابه قدامة المقدسي‬
+We also see that those who are generally referred to as ‗muqalideen‘ also hold similar
+views regard who is permissible to do taqlid and who is not. For example, Shaykh Tahir
+Mahmood Kiani mentions:
+
+www.australianislamiclibrary.org
+
+85
+
+Australian Islamic Library - 2015
+
+Following (taqlid) means to accept someone‘s position without proof.
+According to this definition, accepting the statement of the Prophet ‫ ﷺ‬is also
+following.100
+Others say that following is to accept someone‘s position without knowing
+what his position is based on. Based on this, if we say: The Prophet ‫ ﷺ‬used to
+judge based on qiyas. It is correct to say that someone who accepts his direction
+is following him.101
+
+―For a mujtahid, it is forbidden to follow the decisions of another mujtahid, with respect to
+ijtihād, if such decision is not in compliance with his own, whereas for one who is not a
+mujtahid, it is unlawful for him to practise ijtihad and to follow his own decisions due to
+his lack of ‗ijtihadic‘ qualifications‖(Kiani, 2007).
+It is, therefore clear that those who possess skill-set of Mujtahids should practice ijtihaad
+and those who do not have such skill-set should refrain from it. Laymen can refer to
+scholars that they trust (using the best of their judgement) for seeking guidance in the
+matters of religion.
+100 Imam Al-Juvaini mentions this opinion here but in his other book on Usul, Al-Burhan,
+
+he clarifies that following the word of Prophet Muhammad ‫ ﷺ‬is not called taqleed as it
+(his ‫ ﷺ‬statements and commands) is hujjah in itself (‫ )حجة في نفسه‬whereas the definition
+of Taqlid is ―‫( ‖قبول قول القائل بال حجة‬1991 ,‫)عبد اهللا به صال الفوزان‬.
+101 As explained before, many scholars do not consider following the prophet as Taqleed
+
+as his actions, approvals and speech are hujjah themselves.
+Sheikh Muhammad Ibn Al-Uthaymeen expresses same opinion in his book ―Al-Usool
+min 'Ilimil Usool‖ where he excludes the following from the domain of taqleed (alUthaymin, 2013):
+- Following the Prophet ‫ﷺ‬,
+- Following the ijmaa
+- Following the saying of the sahaabee (for those who consider the saying of a single
+sahaabee to be a proof)
+
+www.australianislamiclibrary.org
+
+86
+
+Australian Islamic Library - 2015
+
+DILIGENT INQUIRY (IJTIHAD - ‫)االجتهـــاد‬:
+Diligent inquiry (Ijtihad) is to go to the limits of one‘s ability to achieve one‘s
+objective 102 . If a fully competent practitioner of diligent inquiry (qualified
+mujtahid meeting the criteria mentioned before) inquires diligently into the
+branches of law and judges correctly, his is a double reward. If he inquiries into
+them diligently and errs, his is a single reward103.
+Some say that all who inquire diligently into the branches of law judge
+correctly, but it cannot be said that all who inquire diligently into theological
+roots judge correctly, because that would require us to agree with those who
+are in error, Christians and Magians and infidels and atheists104.
+The proof of those who say that not all who exercise diligent inquiry
+concerning the branches of law judge correctly, is that the Prophet said
+―whoever inquires diligently and judges correctly, his is a double reward, and
+whoever inquires diligently and errs, his is a single reward.‖
+This is a proof because the Prophet declared the practitioner of diligent inquiry
+to be in error in one instance, and affirmed him in another.
+102 This is linguistic definition of Ijtihad i.e. to make utmost effort.
+103 Amr ibn Al-As reported: The Messenger of Allah ‫ﷺ‬, peace and blessings be upon
+
+him, said, ―If a judge makes a ruling, striving to apply his reasoning (ijtihad) and he is
+correct, then he will have two rewards. If a judge makes a ruling, striving to apply his
+reasoning and he is mistaken, then he will have one reward.‖ Source: Sahih Bukhari 6919,
+Sahih Muslim 1716 (Muttafaqun Alayhi)
+104 Ijtihad in terms of Shariah is therefore accepted only from Mujtahids who are Muslim
+
+and do ijtihaad with the right intentions while having the appropriate skill-set to
+undertake this noble activity. If these conditions are not met, Ijtihad will not be considered
+acceptable.
+www.australianislamiclibrary.org
+
+87
+
+Australian Islamic Library - 2015
+
+Allah is glorified, exalted and all knowing.
+I humbly present this effort for acceptance to my Most Merciful and
+Forgiving Lord.
+_______________________________________________________________________________________
+
+Praise to Allah for its completion,
+Then blessings of Allah and peace,
+On the Messenger ‫ﷺ‬, his family and companions,
+And his followers and every believer in him!
+
+_______________________________________________________________________________________
+
+www.australianislamiclibrary.org
+
+88
+
+Australian Islamic Library - 2015
+
+APPENDIX 1: HADITH CLASSIFICATION
+Source: (Dr. Suhaib Hasan, 1999)
+The promise made by Allah(SWT) in Quran 15:9 is obviously fulfilled in the
+undisputed purity of the Quranic text throughout the fourteen centuries since
+its revelation. However, what is often forgotten by many Muslims is that the
+divine promise also includes, by necessity, the Sunnah of the Prophet ‫ﷺ‬
+because the Sunnah is the practical example of the implementation of the
+Quranic guidance, the wisdom taught to the Prophet‫ ﷺ‬along with the
+scripture, and neither the Quran nor the Sunnah can be understood correctly
+without the other.
+Allah(SWT) preserved the Sunnah by enabling the Companions and those after
+them to memorize, write down and pass on the statements of the Prophet‫ﷺ‬,
+and the descriptions of his way, as well as to continue the blessings of
+practicing the Sunnah.
+Later, as the purity of the knowledge of the Sunnah became threatened,
+Allah(SWT) caused the Muslim Sunnah to produce individuals with exceptional
+memory skills and analytical expertise, who travelled tirelessly to collect
+thousands of narrations and distinguish the true words of prophetic wisdom
+from those corrupted by weak memories, from forgeries by unscrupulous liars,
+and from the statements of the large number of Ulema (scholars), the
+
+www.australianislamiclibrary.org
+
+89
+
+Australian Islamic Library - 2015
+
+Companions and those who followed their way. All of this was achieved
+through precise attention to the words narrated, and detailed familiarity with
+the biographies of the thousands of reporters of hadith.
+The methodology of the expert scholars of hadith in assessing the narrations
+and sorting out the genuine from the mistaken and fabricated, for ms the
+subject matter of the science of hadith. In this article a brief discussion is given
+of the terminology and classifications of hadith.
+Components Of Hadith
+A hadith is composed of three parts (see the figure [below]):
+
+Matn (text), isnad (chain of reporters), and taraf (the part, or the beginning
+sentence, of the text which refers to the sayings, actions or characteristics of the
+Prophet‫ﷺ‬, or his concurrence with others action). The authenticity of
+the hadith depends on the reliability of its reporters, and the linkage among
+them.
+Classifications Of Hadith
+
+www.australianislamiclibrary.org
+
+90
+
+Australian Islamic Library - 2015
+
+A number of classifications of hadith have been made. Five of these
+classifications are shown in the figure [below], and are briefly described
+subsequently.
+
+www.australianislamiclibrary.org
+
+91
+
+Australian Islamic Library - 2015
+
+1. According to the reference to a particular authority
+Four types of hadith can be identified.
+o
+
+Qudsi - Divine; a revelation from Allah(SWT); relayed with the words
+of the Prophet‫ﷺ‬.
+
+o
+
+Marfu` - elevated; a narration from the Prophet‫ﷺ‬, e.g., I heard the
+Prophet‫ ﷺ‬saying ...
+
+o
+
+Mauquf- stopped: a narration from a companion only, e.g., we were
+commanded to ...
+
+o
+
+Maqtu` - severed: a narration from a successor.
+
+www.australianislamiclibrary.org
+
+92
+
+Australian Islamic Library - 2015
+
+2. According to the links of isnad - interrupted or uninterrupted
+Six categories can be identified.
+o
+
+Musnad - supported: a hadith which is reported by a traditionalist,
+based on what he learned from his teacher at a time of life suitable
+for learning; similarly - in turn - for each teacher until
+the isnad reaches a well-known companion, who in turn, reports
+from the Prophet‫ﷺ‬.
+
+o
+
+Muttasil - continuous: a hadith with an uninterrupted isnad which
+goes back only to a companion or successor.
+
+o
+
+Mursal - hurried: if the link between the successor and the
+Prophet‫ ﷺ‬is missing, e.g., when a successor says "The Prophet
+said...".
+
+o
+
+Munqati` - broken: is a hadith whose link anywhere before the
+successor (i.e., closer to the traditionalist recording the hadith) is
+missing.
+
+o
+
+Mu`adal - perplexing: is a hadith whose reporter omits two or more
+consecutive reporters in the isnad.
+
+o
+
+Mu`allaq - hanging: is a hadith whose reporter omits the
+whole isnad and quotes the Prophet‫ ﷺ‬directly (i.e., the link is
+missing at the beginning).
+
+3. According to the number of reporters involved in each stage of isnad
+Five categories of hadith can be identified:
+
+www.australianislamiclibrary.org
+
+93
+
+Australian Islamic Library - 2015
+
+o
+
+Mutawatir - Consecutive: is a hadith which is reported by such a
+large number of people that they cannot be expected to agree upon
+a lie, all of them together.
+
+o
+
+Ahad - isolated: is a hadith which is narrated by people whose
+number does not reach that of the mutawatir.
+It is further classified into:
+
+
+Mash'hur - famous: hadith reported by more than two
+reporters (and less then 10)
+
+
+
+`Aziz - rare, strong: at any stage in the isnad, only two
+reporters are found to narrate the hadith.
+
+
+
+Gharib - strange: At some stage of the isnad, only one
+reporter is found relating it.
+
+AZIZ
+(Narrated by 2
+companions)
+
+AHAD AHADITH
+(Narrated by
+less than 10
+companions)
+GHARIB
+(narrated by1
+companion)
+
+MASH'HUR
+(narrated by
+between 3 and
+9 companions)
+
+Figure: Classification of Ahad narrations
+www.australianislamiclibrary.org
+
+94
+
+Australian Islamic Library - 2015
+
+4. According to the nature of the text and isnad
+o
+
+Munkar - denounced: is a hadith which is reported by a weak
+narrator,
+
+and
+
+whose
+
+narration
+
+goes
+
+against
+
+another
+
+authentic hadith.
+o
+
+Mudraj - interpolated: an addition by a reporter to the text of
+the hadith being narrated.
+
+5. According to the reliability and memory of the reporters
+This provides the final verdict on a hadith - four categories can be
+identified:
+o
+
+Sahih - sound. Imam al-Shafi`i states the following requirements for
+a hadith, which is not Mutawatir, to be acceptable "each reporter
+should be trustworthy in his religion; he should be known to be
+truthful in his narrating, to understand what he narrates, to know
+how a different expression can alter the meaning, and to report the
+wording of the hadith verbatim, not only its meaning".
+
+o
+
+Hasan - good: is the one where its source is known and its reporters
+are unambiguous.
+
+o
+
+Da`if - weak: a hadith which fails to reach the status of Hasan.
+Usually, th e weakness is: a) one of discontinuity in the isnad, in
+which case the hadith could be - according to the nature of the
+discontinuity
+
+-
+
+Munqati (broken), Mu`allaq (hanging), Mu`adal (perplexing),
+
+www.australianislamiclibrary.org
+
+95
+
+Australian Islamic Library - 2015
+
+or Mursal (hurried), or b) one of the reporters having a disparaged
+character, such as due to his telling lies, excessive mistakes,
+opposition to the narration of more reliable sources, involvement in
+innovation, or ambiguity surrounding his person.
+o
+
+Maudu` - fabricated or forged: is a hadith whose text goes against
+the established norms of the Prophet's sayings, or its reporters
+include a liar. Fabricated hadith are also recognized by external
+evidence related to a discrepancy found in the dates or times of a
+particular incident.
+
+www.australianislamiclibrary.org
+
+96
+
+Australian Islamic Library - 2015
+
+References:
+Abd-Allah, U. F. (2013). Mālik and Medina: Islamic Legal Reasoning in the Formative Period. BRILL.
+Abdul Aleem. (2015). Introduction to Usul ul-Fiqh according to the Hanafi school. Dar ul Ilm, UK. Retrieved
+from http://darul-ilm.co.uk/wp-content/uploads/2015/07/228585391-Usul-Al-Shashi.pdf
+Abdur Rahman I. Doi. (1984). Shariah: The Islamic law. London, United Kingdom: Ta Ha Publishers.
+Al-Ani, S. H., & Tel, S. A. (1999). Kitab Al-Iman: Book of Faith. The Other Press.
+Al-Haddad, S. H. (2008). Principles of Fiqh: Its Meanings & Benefits. Retrieved November 17, 2015, from
+http://www.islam21c.com/islamic-law/165-principles-of-fiqh-its-meanings-a-benefits/
+Al-Hajri, S. S. (1998). Sharh Al-Waraqat Li Imam il Haramain Al-Juvaini. Dar ul Bashair Al-Islamia. Retrieved
+from http://www.australianislamiclibrary.org/al-waraqat-of-al-juvayni.html
+Ali, A. bin H. (2010). Scholarly consensus: Ijma ‘: between use and misuse. Journal of Islamic Law and Culture,
+12(2), 92–113.
+Ali, A., Brakhw, M. A., Nordin, M. Z. F. B., & Shaik, S. F. (2012). Some Linguistic Difficulties in Translating the
+Holy Quran from Arabic into English. International Journal of Social Science and Humanity, 2(6), 588.
+Al-Munajjid, M. S. (2013). 202231: Consensus (ijmaa‘) and analogy (qiyaas) and their application in the modern
+context. Islam QA. Retrieved from http://islamqa.info/en/202271
+al-Munajjid, S. M. S. (2013). Abrogation in the Qur’an, and the order of its soorahs and verses. Retrieved
+November 16, 2015, from http://islamqa.info/en/105746
+al-Munajjid, S. M. S. (2014a). Is there a difference between naafil, sunnah, mandoob and mustahabb?
+Retrieved November 15, 2015, from http://islamqa.info/en/149492
+
+www.australianislamiclibrary.org
+
+97
+
+Australian Islamic Library - 2015
+al-Munajjid, S. M. S. (2014b). Justification for following the Sunnah. Retrieved November 25, 2015, from
+http://islamqa.info/en/604
+al-Munajjid, S. M. S. (2014c). Sources of Islamic Legislation. Retrieved November 21, 2015, from
+http://islamqa.info/en/112268
+al-Munajjid, S. M. S. (2015). 113687: Shaykh al-Albaani (may Allaah have mercy on him) was a great
+muhaddith and a mujtahid faqeeh. Retrieved November 15, 2015, from
+http://islamqa.info/en/113687
+Al-Shemmery, I. M. O. (2010). Literal and Figurative Language with Reference to the Holy Quran. ‫مجلة جامعة بابل‬
+124–121 ,)2(81 ,‫للعلوم الصرفة والتطبيقية‬.
+al-Uthaymin, S. M. ibn S. (2013). The Foundations of the Knowledge of Usul : A Translation of the Text al Usul
+min Ilm al Usul. (S. Nawaz, Trans.). 5 Pillars Publishing. Retrieved from
+https://archive.org/details/TheFoundationsOfTheKnowledgeOfUsool
+as-Sadee, S. A.-R. ibn N. (2001). An Essay Concerning Usul ul-Fiqh. In Risaalah Lateefah Jaamiah fee UsoolilFiqhil-Muhimma. Salafi Publications. Retrieved from
+http://www.salafipublications.com/sps/sp.cfm?subsecID=FQH01&articleID=FQH010001&pfriend=
+Auda, J. (2008). Maqasid Al-Shariah as Philosophy of Islamic Law: A Systems Approach. IIIT.
+Berrada, K. (2006). Metaphors of Light and Darkness in the Holy Quran: A Conceptual Approach. Retrieved
+from http://www.flbenmsik.ma/data/bassamat/basamat1/Berrada.pdf
+Cahyaningsih, L. I. (2014). A Pragmatics Perspective Of Figurative Language Used In Al-Quran (Al-Baqarah).
+Universitas Muhammadiyah Surakarta. Retrieved from http://eprints.ums.ac.id/31714/
+Conditions of a Mujtahid. (2004). Retrieved October 31, 2015, from http://www.onislam.net/english/ask-thescholar/principles-of-islamic-jurisprudence-usul-ul-fiqh/sources-of-legislation/174923
+Doğan, R. (2011). Usul Al - Fıqh. Işık Yayıncılık Ticaret.
+
+www.australianislamiclibrary.org
+
+98
+
+Australian Islamic Library - 2015
+Dr. Suhaib Hasan. (1999). Science of Hadith (An Introduction). London: Al-Quran Society. Retrieved from
+http://www.islamic-awareness.org/Hadith/Ulum/
+Dusuki, A. W., & Abdullah, N. I. (2007). Maqasid al-shari’ah, Maslahah and corporate social responsibility. The
+American Journal of Islamic Social Sciences (AJISS), 24(1), 25–45.
+Firas Al-Khateeb. (2013, February). Imam al-Shafi’i - the Father of Usul al-Fiqh. Retrieved from
+http://lostislamichistory.com/imam-al-shafii-the-father-of-usul-al-fiqh/
+Hannan, S. A. (2006). Usul al-Fiqh. Retrieved November 17, 2015, from
+http://www.hudainfo.com/articles/e005.pdf
+Hilal, I. (2004). Studies in Usul Ul Fiqh (3rd edition). Islamic Cultural Workshop, California.
+Ibrahim, Y. (2009). Lessons In Usool And Fiqh From Various Madhahib (legal schools of Jurisprudence). AlMustaqeem. Retrieved from
+http://islamstory.com/sites/default/files/en/uploads/multimedia/books/fiqh/Lessons-In-Usul-AlFiqh.pdf
+Ijtihaad - criteria and categories. (2001). Retrieved December 12, 2015, from http://www.interislam.org/faith/Ijtihaad.html
+Kamali, M. H. (1991). Principles of Islamic Jurisprudence. Islamic Texts Society.
+Kiani, S. T. M. (2007). Taqlīd: Trusting a Mujtahid. Marifah Dot Net. Retrieved from
+http://www.marifah.net/articles/taqlid-tahirkiani.pdf
+Leaman, O. (2015). The Biographical Encyclopedia of Islamic Philosophy. Bloomsbury Publishing.
+Menski, W. F. (2006). Comparative Law in a Global Context: The Legal Systems of Asia and Africa. Cambridge
+University Press.
+Meri, J. W. (2005). Medieval Islamic Civilization: An Encyclopedia. Routledge.
+Mir, D. M. (1990). The Qur’ān Oaths : Farāhī’s Interpretation. USA: Islamic Studies, Spring 1990 Issue.
+
+www.australianislamiclibrary.org
+
+99
+
+Australian Islamic Library - 2015
+Mohaghegh, A., & Dabaghi, A. (2013). A Comparative Study of Figurative Language and Metaphor in English,
+Arabic, and Persian with a Focus on the Role of Context in Translation of Qur’anic Metaphors. Journal
+of Basic and Applied Scientific Research, 3(4), 275–282.
+Muhammad Abu Zahrah. (2008). The Fundamental Principles of Imam Malik’s Fiqh. Muwatta Dot Com.
+Retrieved from http://www.muwatta.com/ebooks/english/fundamental_principles_of_maliki_fiqh.pdf
+Philips, A. A. B. (2005). The Evolution of Fiqh : Islamic Law and the Madh-habs (Revised 2nd Edition).
+International Islamic Publishing House (IIPH). Retrieved from
+http://www.kalamullah.com/Books/The%20Evolution%20of%20Fiqh.pdf
+Safi, L. (1996). The Foundation of Knowledge. IIIT.
+Shah Abdul Hannan. (2005). Islamic Jurisprudence (Usul Al Fiqh): Istihsan. Muslim Tents. Retrieved from
+http://www.muslimtents.com/aminahsworld/Islamic_jurisprudence_istihsan.html
+Shaykh Gibril Fouad Haddad. (2013). Figurative Language in the Quran. Retrieved November 15, 2015, from
+http://eshaykh.com/quran-tafsir/figurative-language-in-the-quran/
+Sheikh Abdullah Oduro. (2015). The Blueprint - Intro to Usul al Fiqh. USA: River Oaks Islamic Centre, Houston.
+Retrieved from https://www.youtube.com/playlist?list=PL3ojroKMH5t5wUi3kUpwa4cn0tVuUiCsD
+Sheikh Abu ’Ubadah Harith Al-Shiraida. (2014). Lessons in Usool-ul-Fiqh (Vols. 1–24). Dar Al-Sunnah. Retrieved
+from https://www.youtube.com/playlist?list=PLF45wq4cZxUbSVhqHAYdNSdC_pB6M_TEZ
+Sheikh Abu Zaid Zameer. (2013). Fiqh ke baaz usool Course. India: Islamic Lecture Dot Net. Retrieved from
+https://www.youtube.com/playlist?list=PLgpPOIQ2eEw1gWK6vsiS6LQjvLNDx273l
+Sheikh Muhammad Nuruddeen Lemu. (2013). Usul al Fiqh & Maqasid Ash-shariah. Malaysia: Institue AlQayyim, Pulau Pinang. Retrieved from
+https://www.youtube.com/playlist?list=PLd4gN2kk3roPUXkwRYdkbHS1VxReu3AGx
+Sheikh Musa Furber. (2014). Finishing Sharḥ al-Waraqāt before editing Zād al-Mustaqniʿ. Retrieved from
+http://musafurber.com/2014/02/26/finishing-sharh-al-waraqat-before-editing-zad-al-mustaqni/
+
+www.australianislamiclibrary.org
+
+10
+0
+
+Australian Islamic Library - 2015
+Sheikh Nasir As-Saadi. (2014). Al-Qawa’id Al-Fiqhiyyah of Al-Sa’dee - Part 5: The Commands in the Book and
+the Sunnah (Translation of: ‫)رسالة لطيفة جامعة في أصول الفقه المهمة‬. Fiqh Online (Translated by: Abu Iyaad).
+Retrieved from http://www.fiqhonline.com/articles/lrxfsts-al-qawaid-al-fiqhiyyah-of-al-sadee---part5.cfm
+Sheikh Nasir As-Saadi, & Sheikh Saleh As-Saleh. (2006). Al Qawaa’id wal Usool al-Jaami’ah wal Furooq wat
+Taqaaseem al-Badee’ah an-Naafi’ah - The Basic Rulings and Principles of Fiqh. Islam House. Retrieved
+from
+http://d1.islamhouse.com/data/en/ih_books/single/en_Basic_Rulings_and_Foundations_of_Fiqh.pdf
+Sheikh Sajid Umar. (2012). Introduction to Fiqh (Part 3) - Sheikh Sajid Ahmed Umar. Retrieved from
+https://www.youtube.com/watch?v=-uL2wrn_szM
+Sheikh Sajid Umar. (2013a). Introduction to Fiqh (Part 3) - Sheikh Sajid Ahmed Umar. Retrieved from
+https://www.youtube.com/watch?v=-uL2wrn_szM
+Sheikh Sajid Umar. (2013b). Introduction to Fiqh (Part 3) - Sheikh Sajid Ahmed Umar. Retrieved from
+https://www.youtube.com/watch?v=-uL2wrn_szM
+Sheikh Sajid Umar. (2015). Introduction to Fiqh – Part 2. Retrieved from
+http://www.sajidumar.com/introduction-to-fiqh-part-2/
+Sheikh Yasir Fahmi Al-Azhari. (2013). Explanation Of Al waraqat. Egypt: Al-Azhar TV (Operated by Jamia AlAzhar). Retrieved from https://www.youtube.com/playlist?list=PLGrJQVLFsooAE_Y9H6Mlj_pNkKReo6rO
+Syaputra, E., Hilal, F. N., Febriansyah, M., Qaed, I., Amiruddin, M. M., & Aziz, M. R. A. (2014). Maslahah as an
+Islamic Source and its Application in Financial Transactions. Journal of Research in Humanities and
+Social Science, 2(5), 66–71.
+
+www.australianislamiclibrary.org
+
+10
+1
+
+Australian Islamic Library - 2015
+Vishanoff, D. (2008). A Handbook of Legal Theory: Imam al-Haramayn al-Juwayni, Kitab al-Waraqat fi usul alfiqh. David Vishanoff. Retrieved from http://david.vishanoff.com/wpcontent/uploads/WaraqatWithCommentary.htm
+Yusuf Rios. (2013, February). Understanding Usul al-Fiqh. Retrieved from
+http://www.virtualmosque.com/islam-studies/islamic-law/understanding-usul-al-fiqh/
+Zahra, M. A. (2000). The Four Imams Their Lives, Works and Their Schools of Thought. (A. Bewley & M. I.
+Waley, Eds., A. A. Bewley, Trans.). London: Dar Al Taqwa Ltd.
+
+‫ روضة الناظر وجنة المناظر‬.)1553( .‫( ابن قدامة المقدسي‬Vols. 1–3). ‫مكتبة الرشد‬. Retrieved from
+http://waqfeya.com/book.php?bid=9406
+
+‫ روضة الناظر و جنة المناظر في أصول الفقـه على مذهب أحمد بن حنبل‬.)1554( .‫ أ‬.‫ ب‬.‫ ا‬.‫ ع‬,‫ابن قـدامـة‬. al-Maktabah al-Makkiyah.
+‫ أعالم الموقعين عن رب العالمين‬.)2002( .‫ ق‬.‫ ا‬,‫الجوزية‬. Dar al-Kitab al-Arabi.
+‫ أضواء البيان في إيضاح القرآن بالقرآن‬.)2011( .‫ م‬.‫ ب‬.‫ ا‬.‫ م‬,‫( الشنقيطي‬Vols. 1–10). Beirut: ‫دار الكتاب العربي‬.
+‫ شرح رسالة لطيفة في األصول‬.)2002( .‫ ص‬.‫ ب‬.‫ ا‬.‫ ع‬.‫ ا‬,‫الفوزان‬. Retrieved from
+http://ar.islamway.net/collection/4783/%D8%B4%D8%B1%D8%AD%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%84%D8%B7%D9%8A%D9%81%D8%A9%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84
+1551( .‫)عبد اهللا بن صالح الفوزان‬. Sharh Al-Waraqt fi Usool il Fiqh (3rd ed., Vols. 1–1). ‫كلية الشريعة الدراسات اإلسالمية‬
+‫بجامعة أم القرى‬. Retrieved from
+https://ia601508.us.archive.org/28/items/ar_sharh_alwarakat_alfawzan_201511/ar_sharh_alwarakat
+_alfawzan.pdf
+
+‫ فـواتـح الـرحـمـوت بـشـرح مـسـلـم الـثـبـوت في فـروع الـحـنـفـيـة‬.)1554( .‫عـبـد الـعـلـي مـحـمـد بن نـظـام الـديـن‬. Bayrūt : Dār Iḥyā’
+al-Turāth al-‘Arabī lil-Ṭibā‘ah wa-al-Nashr wa-al-Tawzī‘.
+1553( .‫)عبد هللا بن أحمد بن محمد بن قدامة المقدسي‬. https://archive.org/stream/FP4022/4022 (1st ed., Vols. 1–3). ArRiyadh (Saudi Arabia): ‫مكتبة الرشد‬. Retrieved from https://archive.org/stream/FP4022/4022
+
+www.australianislamiclibrary.org
+
+10
+2
+
+Australian Islamic Library - 2015
+
+www.australianislamiclibrary.org
+
+10
+3
+
+Australian Islamic Library - 2015
+
+AUSTRALIAN ISLAMIC LIBRARY
+www.australianislamiclibrary.org
+www.australianislamiclibrary.org
+
+10
+4
+
+
